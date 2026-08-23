@@ -1,0 +1,127 @@
+[
+  {
+    "id": "trend_txtcluster_0025",
+    "pattern": "beleza,explore,nailsdesigner,viral",
+    "pattern_type": "hashtag",
+    "lifecycle": "EMERGING",
+    "first_observed_at": "2026-08-20T02:52:11+00:00",
+    "last_observed_at": "2026-08-20T03:08:43+00:00",
+    "content_count": 3,
+    "unique_creator_count": 3,
+    "niche_count": 1,
+    "growth_signal": 0.6,
+    "engagement_signal": 0.5,
+    "replication_signal": 0.75,
+    "cross_niche_signal": 0.3333333333333333,
+    "trend_score": 70.0,
+    "confidence": 58.25,
+    "primary_hashtags": [
+      "beleza",
+      "viral",
+      "explore",
+      "nailsdesigner"
+    ],
+    "dominant_format": "Image",
+    "explanation": "Cluster with 3 contents from 3 creators. Time span: 0.3h (2026-08-20T02:52 to 2026-08-20T03:08). Top hashtags: #beleza, #viral, #explore. Format: Image. Niches: beauty. Score: 70.0, Confidence: 58.25%, Lifecycle: EMERGING.",
+    "contents": [
+      "apify_3967604381930818271",
+      "apify_3967597711510006585",
+      "apify_3967596074621638439"
+    ],
+    "evidence_count": 7
+  },
+  {
+    "id": "trend_txtcluster_0012",
+    "pattern": "audiovisuel,avant,belle,bien,bonne,cam\u00e9ra,choisir,elle,existe,fait",
+    "pattern_type": "hashtag",
+    "lifecycle": "EMERGING",
+    "first_observed_at": "2026-08-20T03:30:31+00:00",
+    "last_observed_at": "2026-08-20T03:33:30+00:00",
+    "content_count": 2,
+    "unique_creator_count": 2,
+    "niche_count": 1,
+    "growth_signal": 0.4,
+    "engagement_signal": 0.2,
+    "replication_signal": 0.5,
+    "cross_niche_signal": 0.3333333333333333,
+    "trend_score": 59.33,
+    "confidence": 45.5,
+    "primary_hashtags": [
+      "creationdecontenu",
+      "lbbgroups",
+      "conseil",
+      "cameroun",
+      "productionaudiovisuelle"
+    ],
+    "dominant_format": "Image",
+    "explanation": "Cluster with 2 contents from 2 creators. Time span: 0.0h (2026-08-20T03:30 to 2026-08-20T03:33). Top hashtags: #creationdecontenu, #lbbgroups, #conseil. Format: Image. Niches: marketing. Score: 59.33, Confidence: 45.5%, Lifecycle: EMERGING.",
+    "contents": [
+      "apify_3967615912833542598",
+      "apify_3967614418200190077"
+    ],
+    "evidence_count": 8
+  },
+  {
+    "id": "trend_txtcluster_0000",
+    "pattern": "aussiebusiness,branding,businessdevelopment,ccs,marketing",
+    "pattern_type": "generic",
+    "lifecycle": "EMERGING",
+    "first_observed_at": "2026-08-20T03:43:36+00:00",
+    "last_observed_at": "2026-08-20T03:43:59+00:00",
+    "content_count": 3,
+    "unique_creator_count": 1,
+    "niche_count": 1,
+    "growth_signal": 0.6,
+    "engagement_signal": 0.2,
+    "replication_signal": 0.25,
+    "cross_niche_signal": 0.3333333333333333,
+    "trend_score": 55.67,
+    "confidence": 40.75,
+    "primary_hashtags": [
+      "businessdevelopment",
+      "ccs",
+      "branding",
+      "marketing",
+      "aussiebusiness"
+    ],
+    "dominant_format": "Image",
+    "explanation": "Cluster with 3 contents from 1 creators. Time span: 0.0h (2026-08-20T03:43 to 2026-08-20T03:43). Top hashtags: #businessdevelopment, #ccs, #branding. Format: Image. Niches: marketing. Score: 55.67, Confidence: 40.75%, Lifecycle: EMERGING.",
+    "contents": [
+      "apify_3967622114357953733",
+      "apify_3967622029934969901",
+      "apify_3967621647909292235"
+    ],
+    "evidence_count": 10
+  },
+  {
+    "id": "trend_txtcluster_0041",
+    "pattern": "day,instagood,instagram,jai,kahtaru,kali,maa,maakali,post,sorry",
+    "pattern_type": "hashtag",
+    "lifecycle": "EMERGING",
+    "first_observed_at": "2026-08-20T03:00:34+00:00",
+    "last_observed_at": "2026-08-20T03:00:49+00:00",
+    "content_count": 2,
+    "unique_creator_count": 2,
+    "niche_count": 0,
+    "growth_signal": 0.4,
+    "engagement_signal": 0.2,
+    "replication_signal": 0.5,
+    "cross_niche_signal": 0.0,
+    "trend_score": 54.33,
+    "confidence": 45.5,
+    "primary_hashtags": [
+      "instagram",
+      "viralpost",
+      "trending",
+      "instagood",
+      "video"
+    ],
+    "dominant_format": "Sidecar",
+    "explanation": "Cluster with 2 contents from 2 creators. Time span: 0.0h (2026-08-20T03:00 to 2026-08-20T03:00). Top hashtags: #instagram, #viralpost, #trending. Format: Sidecar. Score: 54.33, Confidence: 45.5%, Lifecycle: EMERGING.",
+    "contents": [
+      "apify_3967600423645001944",
+      "apify_3967600273148230234"
+    ],
+    "evidence_count": 7
+  }
+]

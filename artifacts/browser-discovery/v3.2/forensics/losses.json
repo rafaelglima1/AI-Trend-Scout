@@ -1,0 +1,114 @@
+[
+  {
+    "post_identifier": "Da05Nl6ps5-",
+    "post_url": "https://www.instagram.com/p/Da05Nl6ps5-/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 38,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "38\nLike"
+    },
+    "v3": {
+      "like_count": null,
+      "like_source": "UNKNOWN",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DIhyTpZJPgu",
+    "post_url": "https://www.instagram.com/p/DIhyTpZJPgu/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 2,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "2 likes"
+    },
+    "v3": {
+      "like_count": null,
+      "like_source": "UNKNOWN",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DXkWXSJEQGO",
+    "post_url": "https://www.instagram.com/p/DXkWXSJEQGO/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 2,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "2 likes"
+    },
+    "v3": {
+      "like_count": null,
+      "like_source": "UNKNOWN",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DbOGAgbI3Ny",
+    "post_url": "https://www.instagram.com/p/DbOGAgbI3Ny/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 72,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "72\nLike"
+    },
+    "v3": {
+      "like_count": null,
+      "like_source": "UNKNOWN",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DDsVuPayUIc",
+    "post_url": "https://www.instagram.com/p/DDsVuPayUIc/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 1,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "1 like"
+    },
+    "v3": {
+      "like_count": null,
+      "like_source": "UNKNOWN",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DbcIzwxRnLj",
+    "post_url": "https://www.instagram.com/p/DbcIzwxRnLj/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 17950,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "17,950 likes"
+    },
+    "v3": {
+      "like_count": null,
+      "like_source": "UNKNOWN",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "C3voS2GPw1o",
+    "post_url": "https://www.instagram.com/p/C3voS2GPw1o/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 823,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "823\nLike"
+    },
+    "v3": {
+      "like_count": null,
+      "like_source": "UNKNOWN",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  }
+]

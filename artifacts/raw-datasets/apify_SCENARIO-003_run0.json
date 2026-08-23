@@ -1,0 +1,422 @@
+{
+  "provider": "apify",
+  "scenario": "SCENARIO-003",
+  "collected_at": "2026-08-20T03:45:37.168861+00:00",
+  "duration_seconds": 13.312999999965541,
+  "error": null,
+  "records": 21,
+  "contents": [
+    {
+      "id": "apify_3967622212325054961",
+      "external_id": "3967622212325054961",
+      "url": "https://www.instagram.com/p/DcP02F4lZnx/",
+      "author": "personal.millbody",
+      "published_at": "2026-08-20T03:44:14.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\n\ud83d\udd25 Spoiler: intensidade > dura\u00e7\u00e3o.\n\nO protocolo Millbody de treino r\u00e1pido:\n\u26a1 5min aquecimento\n\u26a1 20min ",
+      "media_type": "Image",
+      "hashtags": [
+        "1.",
+        "treino30min",
+        "treinorapido",
+        "millbody",
+        "fitness",
+        "treinointeligente",
+        "academia",
+        "personaltrainer",
+        "vidasaudavel",
+        "treinocurto",
+        "resultadosreais"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967622179955550002",
+      "external_id": "3967622179955550002",
+      "url": "https://www.instagram.com/p/DcP01nvNicy/",
+      "author": "primesuples",
+      "published_at": "2026-08-20T03:44:08.000Z",
+      "text": "\ud83c\udf81 10% OFF con el c\u00f3digo MOTIPRIME10 en primesuples.com\n\n6 meses van a pasar igual. Haz que valgan la pena. \ud83e\ude75\ud83d\udcaa\ud83c\udffc\n\n#Gym #Fitness #Motivacion #Prime",
+      "media_type": "Image",
+      "hashtags": [
+        "Gym",
+        "Fitness",
+        "Motivacion",
+        "Prime"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967621738815514729",
+      "external_id": "3967621738815514729",
+      "url": "https://www.instagram.com/p/DcP0vM5N2hp/",
+      "author": "dany241086",
+      "published_at": "2026-08-20T03:43:14.000Z",
+      "text": "Dos noches m\u00e1s .... \u2705\ud83c\udfe0\ud83d\udc9d\ud83e\udec2\ud83d\ude4f\ud83c\udffb\ud83d\ude9b\ud83d\udcbb \ud83d\udc9a\ud83e\ude77\ud83e\ude77\ud83e\ude77\ud83e\ude77\u2665\ufe0f\u2665\ufe0f\ud83d\udc36\ud83c\udfe0\ud83c\uddf5\ud83c\udde6\n#momlife\u2764\ufe0f\n#momfitness \n#fitness \n#fitnesslife \n#fitnessmotivation",
+      "media_type": "Image",
+      "hashtags": [
+        "momlife\u2764\ufe0f",
+        "momfitness",
+        "fitness",
+        "fitnesslife",
+        "fitnessmotivation"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967621529554174394",
+      "external_id": "3967621529554174394",
+      "url": "https://www.instagram.com/p/DcP0sKARMG6/",
+      "author": "pradhuman_lifter",
+      "published_at": "2026-08-20T03:42:48.000Z",
+      "text": "@atulchaudhary717 guru ji knowledge is power \ud83d\ude4f#gym #fitness # viral post #bodybuilding #instagram #less",
+      "media_type": "Image",
+      "hashtags": [
+        "gym",
+        "fitness",
+        "bodybuilding",
+        "instagram",
+        "less"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967617041245281732",
+      "external_id": "3967617041245281732",
+      "url": "https://www.instagram.com/p/DcPzq18Nh3E/",
+      "author": "tsubasa.toyama",
+      "published_at": "2026-08-20T03:42:22.000Z",
+      "text": ".\n8\u670823\u65e5 21:00 \u304b\u3089\u8ca9\u58f2START\u203c\ufe0e\n\n#bittersweet\n#fitness\n#\u30d5\u30a3\u30c3\u30c8\u30cd\u30b9\n#\u30b9\u30c8\u30ea\u30fc\u30c8",
+      "media_type": "Image",
+      "hashtags": [
+        "bittersweet",
+        "fitness",
+        "\u30d5\u30a3\u30c3\u30c8\u30cd\u30b9",
+        "\u30b9\u30c8\u30ea\u30fc\u30c8"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967621222117346922",
+      "external_id": "3967621222117346922",
+      "url": "https://www.instagram.com/p/DcP0nrrmw5q/",
+      "author": "lyftsbyava",
+      "published_at": "2026-08-20T03:42:08.000Z",
+      "text": "im too lazy so here\u2019s whatever this is \n\n#upperbody #gymgirl #dfyne #fitness #gyminspiration",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "upperbody",
+        "gymgirl",
+        "dfyne",
+        "fitness",
+        "gyminspiration"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 2,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967621154915355318",
+      "external_id": "3967621154915355318",
+      "url": "https://www.instagram.com/p/DcP0mtGDgq2/",
+      "author": "tammy.fitwear",
+      "published_at": "2026-08-20T03:42:00.000Z",
+      "text": "No subestimes el clima\u2026 las ma\u00f1anas a\u00fan son fr\u00edas \ud83e\udd2d vive tu experiencia fitness calentita con tus polainas deportivas \u2728\nComplementa tu outfit con intenci\u00f3n pr\u00e1ctica\ud83d\udc8b\n\n#polainas #polainasdeportivas #fi",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "polainas",
+        "polainasdeportivas",
+        "fitness",
+        "sportinvierno"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620738573768341",
+      "external_id": "3967620738573768341",
+      "url": "https://www.instagram.com/p/DcP0gpWKZaV/",
+      "author": "ratnakarjagannath",
+      "published_at": "2026-08-20T03:41:17.000Z",
+      "text": "#Cycling #MorningRide #Ambajogai #Fitness #HealthyLifestyle CyclingLife",
+      "media_type": "Image",
+      "hashtags": [
+        "Cycling",
+        "MorningRide",
+        "Ambajogai",
+        "Fitness",
+        "HealthyLifestyle"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 1,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620495002886824",
+      "external_id": "3967620495002886824",
+      "url": "https://www.instagram.com/p/DcP0dGgNOKo/",
+      "author": "thescarredsaint",
+      "published_at": "2026-08-20T03:41:09.000Z",
+      "text": "The mats don\u2019t care what you lift. Great work tonight \ud83e\udd1d\n\n#bjj #training #fitness #martialarts #strength",
+      "media_type": "Image",
+      "hashtags": [
+        "bjj",
+        "training",
+        "fitness",
+        "martialarts",
+        "strength"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620632968670272",
+      "external_id": "3967620632968670272",
+      "url": "https://www.instagram.com/p/DcP0fG_m6xA/",
+      "author": "maia.maee",
+      "published_at": "2026-08-20T03:40:58.000Z",
+      "text": "She\u2019s getting her spark back \n\nNeed to get more flags up \ud83d\ude2e\u200d\ud83d\udca8\n\nMy little babyyyyyy always with me \n\nMY BABBBYYY\n\nLittle guard dog \ud83e\udd7a\ud83e\udef6\n\n#fitness#thatgirl#sel\ufb01mprovement#lean#dfyneactivewear",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "fitness",
+        "thatgirl",
+        "sel\ufb01mprovement",
+        "lean",
+        "dfyneactivewear"
+      ],
+      "raw_metrics": {
+        "like_count": 44,
+        "comments_count": 1,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967610135499029784",
+      "external_id": "3967610135499029784",
+      "url": "https://www.instagram.com/p/DcPyGWdqL0Y/",
+      "author": "maia.maee",
+      "published_at": "2026-08-20T03:40:57.000Z",
+      "text": "#fitness#thatgirl#sel\ufb01mprovement#lean#dfyneactivewear",
+      "media_type": "Image",
+      "hashtags": [
+        "fitness",
+        "thatgirl",
+        "sel\ufb01mprovement",
+        "lean",
+        "dfyneactivewear"
+      ],
+      "raw_metrics": {
+        "like_count": null,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620395991905084",
+      "external_id": "3967620395991905084",
+      "url": "https://www.instagram.com/p/DcP0bqSsTM8/",
+      "author": "garage_wod",
+      "published_at": "2026-08-20T03:40:57.000Z",
+      "text": "Thursday 08.20.26\n-\n-\n-\n#Workout #Fitness #CrossFit #Nutrition #Gym",
+      "media_type": "Image",
+      "hashtags": [
+        "Workout",
+        "Fitness",
+        "CrossFit",
+        "Nutrition",
+        "Gym"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620481848226271",
+      "external_id": "3967620481848226271",
+      "url": "https://www.instagram.com/p/DcP0c6QILHf/",
+      "author": "neerajhdrectifier",
+      "published_at": "2026-08-20T03:40:40.000Z",
+      "text": "Self-love isn\u2019t selfish \u2014 it\u2019s knowing your worth, protecting your peace, and becoming the best version of yourself. \ud83d\udda4\ud83d\udd25#brother #love #selflove #fitness #explorar",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "brother",
+        "love",
+        "selflove",
+        "fitness",
+        "explorar"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620445197216169",
+      "external_id": "3967620445197216169",
+      "url": "https://www.instagram.com/p/DcP0cYHjqmp/",
+      "author": "b.withrwc",
+      "published_at": "2026-08-20T03:40:36.000Z",
+      "text": "Tomorrow doesn\u2019t start at 5am, it starts at 8pm \ud83e\udef6\ud83c\udffd\n\nHere\u2019s what I\u2019ve learned after years of \u201ctrying\u201d to be a morning person: motivation is not the variable. Friction is.\n\nThe morning you skip isn\u2019t us",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "fitness",
+        "inspiration",
+        "habits",
+        "dothework"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 1,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620323682636390",
+      "external_id": "3967620323682636390",
+      "url": "https://www.instagram.com/p/DcP0am8uVJm/",
+      "author": "deyvinquiang",
+      "published_at": "2026-08-20T03:40:24.000Z",
+      "text": "Quien se iba a imaginar que ser\u00eda tan constante y que cambiar\u00eda hasta mi apariencia de edad \ud83e\udd29\n\n#motivation #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\u2665\ufe0f #oca\u00f1a #gymtime #fitness",
+      "media_type": "Image",
+      "hashtags": [
+        "motivation",
+        "paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\u2665\ufe0f",
+        "oca\u00f1a",
+        "gymtime",
+        "fitness"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620298330648913",
+      "external_id": "3967620298330648913",
+      "url": "https://www.instagram.com/p/DcP0aPVoLFR/",
+      "author": "vivek_rahmapuriya",
+      "published_at": "2026-08-20T03:40:18.000Z",
+      "text": "\u092e\u0947\u0930\u0947 \u092d\u093e\u0908\u2764\ufe0f\u200d\ud83e\ude79\u0930\u0940\u0932 \u091a\u0932\u093e\u0924\u0947 \u091a\u0932\u093e\u0924\u0947 \u0925\u093e\u0915 \u0917\u092f\u093e \u0939\u094b\u0917\u093e  @vivek_rahmapuriya #fitness #motivation #bodybuilding #follow #viralpost",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "fitness",
+        "motivation",
+        "bodybuilding",
+        "follow",
+        "viralpost"
+      ],
+      "raw_metrics": {
+        "like_count": 3,
+        "comments_count": 1,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620212433954606",
+      "external_id": "3967620212433954606",
+      "url": "https://www.instagram.com/p/DcP0Y_VyScu/",
+      "author": "yae_for_yyh",
+      "published_at": "2026-08-20T03:40:17.000Z",
+      "text": "#fitness",
+      "media_type": "Image",
+      "hashtags": [
+        "fitness"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620111355377619",
+      "external_id": "3967620111355377619",
+      "url": "https://www.instagram.com/p/DcP0XhNCHfT/",
+      "author": "train.withqureshi",
+      "published_at": "2026-08-20T03:39:56.000Z",
+      "text": "@hustlersonly.official code/AQ10\n.\n.\n.\n#trending #viral #fitness #gymmotivation #instagram",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "trending",
+        "viral",
+        "fitness",
+        "gymmotivation",
+        "instagram"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 1,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967619372427630388",
+      "external_id": "3967619372427630388",
+      "url": "https://www.instagram.com/p/DcP0MxBgdc0/",
+      "author": "kristal_a_relentless",
+      "published_at": "2026-08-20T03:39:46.000Z",
+      "text": "A little wild never looked so feminine \ud83c\udf80\ud83e\ude75\ud83d\udc06 \n.\n.\n.\n.\n#bodybuilding \n#cheetah \n#bikini\n#musclemommy \n#fitness",
+      "media_type": "Image",
+      "hashtags": [
+        "bodybuilding",
+        "cheetah",
+        "bikini",
+        "musclemommy",
+        "fitness"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 2,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620015743517231",
+      "external_id": "3967620015743517231",
+      "url": "https://www.instagram.com/p/DcP0WIKH0Iv/",
+      "author": "g___e2",
+      "published_at": "2026-08-20T03:39:45.000Z",
+      "text": "\ud83d\ude0e",
+      "media_type": "Sidecar",
+      "hashtags": [],
+      "raw_metrics": {
+        "like_count": -1,
+        "comments_count": 2,
+        "view_count": null
+      }
+    }
+  ]
+}

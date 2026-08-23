@@ -1,0 +1,290 @@
+[
+  {
+    "post_identifier": "C9SPP4FuCJg",
+    "post_url": "https://www.instagram.com/p/C9SPP4FuCJg/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 13,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "13 likes"
+    },
+    "v3": {
+      "like_count": 271,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DNTxviupnp3",
+    "post_url": "https://www.instagram.com/p/DNTxviupnp3/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 2,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "2 likes"
+    },
+    "v3": {
+      "like_count": 621,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DXFeBVOkZri",
+    "post_url": "https://www.instagram.com/p/DXFeBVOkZri/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 25,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "25 likes"
+    },
+    "v3": {
+      "like_count": 22,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "Da-hcNgAgCD",
+    "post_url": "https://www.instagram.com/p/Da-hcNgAgCD/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 2412,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "2,412 likes"
+    },
+    "v3": {
+      "like_count": 67,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DFvcVefREoF",
+    "post_url": "https://www.instagram.com/p/DFvcVefREoF/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 4,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "4 likes"
+    },
+    "v3": {
+      "like_count": 198,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DJ6jAN8NFq-",
+    "post_url": "https://www.instagram.com/p/DJ6jAN8NFq-/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 1,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "1 like"
+    },
+    "v3": {
+      "like_count": 41,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DS4wR8Kjmvj",
+    "post_url": "https://www.instagram.com/p/DS4wR8Kjmvj/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 272,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "272 likes"
+    },
+    "v3": {
+      "like_count": 60,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DSKgXAHAHC5",
+    "post_url": "https://www.instagram.com/p/DSKgXAHAHC5/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 1834,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "1,834 likes"
+    },
+    "v3": {
+      "like_count": 70,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "C5jHbXEPakb",
+    "post_url": "https://www.instagram.com/p/C5jHbXEPakb/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 1,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "1 like"
+    },
+    "v3": {
+      "like_count": 69,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DUPGZQkkSoe",
+    "post_url": "https://www.instagram.com/p/DUPGZQkkSoe/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 3,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "3 likes"
+    },
+    "v3": {
+      "like_count": 30,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DYxcUsIJkyZ",
+    "post_url": "https://www.instagram.com/p/DYxcUsIJkyZ/",
+    "scenario": "beleza",
+    "v2": {
+      "like_count": 17,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "17 likes"
+    },
+    "v3": {
+      "like_count": 22,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DamKXZmMyud",
+    "post_url": "https://www.instagram.com/p/DamKXZmMyud/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 23,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "23 likes"
+    },
+    "v3": {
+      "like_count": 16,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DSYP5TJAUD0",
+    "post_url": "https://www.instagram.com/p/DSYP5TJAUD0/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 25256,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "25,256 likes"
+    },
+    "v3": {
+      "like_count": 194,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DaYJdw2OhI9",
+    "post_url": "https://www.instagram.com/p/DaYJdw2OhI9/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 19,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "19 likes"
+    },
+    "v3": {
+      "like_count": 10,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DIT_Eb8xyKH",
+    "post_url": "https://www.instagram.com/p/DIT_Eb8xyKH/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 1,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "1 like"
+    },
+    "v3": {
+      "like_count": 201,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "Db8a_ejRn0t",
+    "post_url": "https://www.instagram.com/p/Db8a_ejRn0t/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 2,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "2 likes"
+    },
+    "v3": {
+      "like_count": 47,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DZT9wijBGAD",
+    "post_url": "https://www.instagram.com/p/DZT9wijBGAD/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 5,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "5 likes"
+    },
+    "v3": {
+      "like_count": 64,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  },
+  {
+    "post_identifier": "DbERP5cJtnO",
+    "post_url": "https://www.instagram.com/p/DbERP5cJtnO/",
+    "scenario": "marketing",
+    "v2": {
+      "like_count": 5680,
+      "like_source": "VISIBLE_TEXT",
+      "like_evidence": "5,680 likes"
+    },
+    "v3": {
+      "like_count": 376,
+      "like_source": "TEXT_OG",
+      "like_evidence": null
+    },
+    "status": "SUCCESS"
+  }
+]

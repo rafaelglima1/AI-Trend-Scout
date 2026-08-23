@@ -1,0 +1,4 @@
+provider,records_returned,unique_records,duplicate_rate,freshness_rate,metadata_completeness,creator_diversity,successful_runs,total_runs,latency_seconds,cost_usd,dq_total,tr_total,er_total
+meta_official,0,0,0.0,0.0,0.0,0.0,0,10,0.0,None,13.0,20.0,20.0
+bright_data,0,0,0.0,0.0,0.0,0.0,0,10,0.0,None,13.0,20.0,20.0
+apify,333,333,0.0,0.8841,0.8978,0.8667,10,10,13.32,None,87.82,88.61,94.62

@@ -1,0 +1,322 @@
+[
+  {
+    "trend_id": "trend_txtcluster_0025",
+    "evidence_id": "ev_hashtag_beleza_0000",
+    "content_id": "apify_3967604381930818271",
+    "source": "hashtag_beleza",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:08:43.000Z",
+    "description": "Content uses hashtag #beleza",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0025",
+    "evidence_id": "ev_hashtag_beleza_0001",
+    "content_id": "apify_3967597711510006585",
+    "source": "hashtag_beleza",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T02:55:28.000Z",
+    "description": "Content uses hashtag #beleza",
+    "strength": 0.8
+  },
+  {
+    "trend_id": "trend_txtcluster_0025",
+    "evidence_id": "ev_hashtag_beleza_0002",
+    "content_id": "apify_3967596074621638439",
+    "source": "hashtag_beleza",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T02:52:11.000Z",
+    "description": "Content uses hashtag #beleza",
+    "strength": 0.8
+  },
+  {
+    "trend_id": "trend_txtcluster_0025",
+    "evidence_id": "ev_hashtag_viral_0001",
+    "content_id": "apify_3967597711510006585",
+    "source": "hashtag_viral",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T02:55:28.000Z",
+    "description": "Content uses hashtag #viral",
+    "strength": 0.8
+  },
+  {
+    "trend_id": "trend_txtcluster_0025",
+    "evidence_id": "ev_hashtag_explore_0002",
+    "content_id": "apify_3967596074621638439",
+    "source": "hashtag_explore",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T02:52:11.000Z",
+    "description": "Content uses hashtag #explore",
+    "strength": 0.8
+  },
+  {
+    "trend_id": "trend_txtcluster_0025",
+    "evidence_id": "ev_format_Image_0000",
+    "content_id": "apify_3967604381930818271",
+    "source": "format_Image",
+    "signal_type": "format",
+    "observed_at": "2026-08-20T03:08:43.000Z",
+    "description": "Content uses format Image",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0025",
+    "evidence_id": "ev_format_Image_0001",
+    "content_id": "apify_3967597711510006585",
+    "source": "format_Image",
+    "signal_type": "format",
+    "observed_at": "2026-08-20T02:55:28.000Z",
+    "description": "Content uses format Image",
+    "strength": 0.8
+  },
+  {
+    "trend_id": "trend_txtcluster_0012",
+    "evidence_id": "ev_hashtag_creationdecontenu_0000",
+    "content_id": "apify_3967615912833542598",
+    "source": "hashtag_creationdecontenu",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:33:30.000Z",
+    "description": "Content uses hashtag #creationdecontenu",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0012",
+    "evidence_id": "ev_hashtag_creationdecontenu_0001",
+    "content_id": "apify_3967614418200190077",
+    "source": "hashtag_creationdecontenu",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:30:31.000Z",
+    "description": "Content uses hashtag #creationdecontenu",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0012",
+    "evidence_id": "ev_hashtag_lbbgroups_0000",
+    "content_id": "apify_3967615912833542598",
+    "source": "hashtag_lbbgroups",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:33:30.000Z",
+    "description": "Content uses hashtag #lbbgroups",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0012",
+    "evidence_id": "ev_hashtag_lbbgroups_0001",
+    "content_id": "apify_3967614418200190077",
+    "source": "hashtag_lbbgroups",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:30:31.000Z",
+    "description": "Content uses hashtag #lbbgroups",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0012",
+    "evidence_id": "ev_hashtag_conseil_0000",
+    "content_id": "apify_3967615912833542598",
+    "source": "hashtag_conseil",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:33:30.000Z",
+    "description": "Content uses hashtag #conseil",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0012",
+    "evidence_id": "ev_hashtag_conseil_0001",
+    "content_id": "apify_3967614418200190077",
+    "source": "hashtag_conseil",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:30:31.000Z",
+    "description": "Content uses hashtag #conseil",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0012",
+    "evidence_id": "ev_format_Image_0000",
+    "content_id": "apify_3967615912833542598",
+    "source": "format_Image",
+    "signal_type": "format",
+    "observed_at": "2026-08-20T03:33:30.000Z",
+    "description": "Content uses format Image",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0012",
+    "evidence_id": "ev_format_Image_0001",
+    "content_id": "apify_3967614418200190077",
+    "source": "format_Image",
+    "signal_type": "format",
+    "observed_at": "2026-08-20T03:30:31.000Z",
+    "description": "Content uses format Image",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_businessdevelopment_0000",
+    "content_id": "apify_3967622114357953733",
+    "source": "hashtag_businessdevelopment",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:59.000Z",
+    "description": "Content uses hashtag #businessdevelopment",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_businessdevelopment_0001",
+    "content_id": "apify_3967622029934969901",
+    "source": "hashtag_businessdevelopment",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:48.000Z",
+    "description": "Content uses hashtag #businessdevelopment",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_businessdevelopment_0002",
+    "content_id": "apify_3967621647909292235",
+    "source": "hashtag_businessdevelopment",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:36.000Z",
+    "description": "Content uses hashtag #businessdevelopment",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_ccs_0000",
+    "content_id": "apify_3967622114357953733",
+    "source": "hashtag_ccs",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:59.000Z",
+    "description": "Content uses hashtag #ccs",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_ccs_0001",
+    "content_id": "apify_3967622029934969901",
+    "source": "hashtag_ccs",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:48.000Z",
+    "description": "Content uses hashtag #ccs",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_ccs_0002",
+    "content_id": "apify_3967621647909292235",
+    "source": "hashtag_ccs",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:36.000Z",
+    "description": "Content uses hashtag #ccs",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_branding_0000",
+    "content_id": "apify_3967622114357953733",
+    "source": "hashtag_branding",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:59.000Z",
+    "description": "Content uses hashtag #branding",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_branding_0001",
+    "content_id": "apify_3967622029934969901",
+    "source": "hashtag_branding",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:48.000Z",
+    "description": "Content uses hashtag #branding",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_hashtag_branding_0002",
+    "content_id": "apify_3967621647909292235",
+    "source": "hashtag_branding",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:43:36.000Z",
+    "description": "Content uses hashtag #branding",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0000",
+    "evidence_id": "ev_format_Image_0000",
+    "content_id": "apify_3967622114357953733",
+    "source": "format_Image",
+    "signal_type": "format",
+    "observed_at": "2026-08-20T03:43:59.000Z",
+    "description": "Content uses format Image",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0041",
+    "evidence_id": "ev_hashtag_instagram_0000",
+    "content_id": "apify_3967600423645001944",
+    "source": "hashtag_instagram",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:00:49.000Z",
+    "description": "Content uses hashtag #instagram",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0041",
+    "evidence_id": "ev_hashtag_instagram_0001",
+    "content_id": "apify_3967600273148230234",
+    "source": "hashtag_instagram",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:00:34.000Z",
+    "description": "Content uses hashtag #instagram",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0041",
+    "evidence_id": "ev_hashtag_viralpost_0000",
+    "content_id": "apify_3967600423645001944",
+    "source": "hashtag_viralpost",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:00:49.000Z",
+    "description": "Content uses hashtag #viralpost",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0041",
+    "evidence_id": "ev_hashtag_viralpost_0001",
+    "content_id": "apify_3967600273148230234",
+    "source": "hashtag_viralpost",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:00:34.000Z",
+    "description": "Content uses hashtag #viralpost",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0041",
+    "evidence_id": "ev_hashtag_trending_0000",
+    "content_id": "apify_3967600423645001944",
+    "source": "hashtag_trending",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:00:49.000Z",
+    "description": "Content uses hashtag #trending",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0041",
+    "evidence_id": "ev_hashtag_trending_0001",
+    "content_id": "apify_3967600273148230234",
+    "source": "hashtag_trending",
+    "signal_type": "hashtag",
+    "observed_at": "2026-08-20T03:00:34.000Z",
+    "description": "Content uses hashtag #trending",
+    "strength": 0.5
+  },
+  {
+    "trend_id": "trend_txtcluster_0041",
+    "evidence_id": "ev_format_Sidecar_0000",
+    "content_id": "apify_3967600423645001944",
+    "source": "format_Sidecar",
+    "signal_type": "format",
+    "observed_at": "2026-08-20T03:00:49.000Z",
+    "description": "Content uses format Sidecar",
+    "strength": 0.5
+  }
+]

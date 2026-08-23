@@ -1,0 +1,426 @@
+{
+  "provider": "apify",
+  "scenario": "SCENARIO-001",
+  "collected_at": "2026-08-20T03:44:43.759156+00:00",
+  "duration_seconds": 13.73499999998603,
+  "error": null,
+  "records": 63,
+  "contents": [
+    {
+      "id": "apify_3967620382526414352",
+      "external_id": "3967620382526414352",
+      "url": "https://www.instagram.com/p/DcP0bdwFh4Q/",
+      "author": "maiumisuga",
+      "published_at": "2026-08-20T03:40:28.000Z",
+      "text": "Muitos cabelitos at\u00e9 agora, s\u00f3 em 2026.\nSer\u00e1 que daqui at\u00e9 o fim do ano fico careca? \ud83e\udd14\nKkkkkk\u2019\n.\n.\n.\n.\n.\n.\n\n.\n.\n#cabelos #surto #beleza",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "cabelos",
+        "surto",
+        "beleza"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967616494934814924",
+      "external_id": "3967616494934814924",
+      "url": "https://www.instagram.com/p/DcPzi5JkfDM/",
+      "author": "euachei.egarimpei",
+      "published_at": "2026-08-20T03:32:45.000Z",
+      "text": "\u2728 TOP 5 produtos de beleza que est\u00e3o fazendo sucesso na Shopee! \ud83d\udecd\ufe0f\ud83d\udc84\n\nSe voc\u00ea ama descobrir produtinhos de beleza que valem a pena, salva esse post para conferir depois! \ud83d\udc95\n\n\ud83d\udc49 Qual desses voc\u00ea j\u00e1 usou? ",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "beleza",
+        "produtosdebeleza",
+        "publi"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967615538247309421",
+      "external_id": "3967615538247309421",
+      "url": "https://www.instagram.com/p/DcPzU-KjRht/",
+      "author": "tomgaleanno",
+      "published_at": "2026-08-20T03:30:51.000Z",
+      "text": "Premi\u00e8re Ato1 Metamorfose , novo projeto de @wanessa \ud83d\udc84\ud83d\udc51\u2728\n.\n.\n.\n.\n#maquiagem #beleza #metamorfose #saopaulo #sp",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "maquiagem",
+        "beleza",
+        "metamorfose",
+        "saopaulo",
+        "sp"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967613296871770375",
+      "external_id": "3967613296871770375",
+      "url": "https://www.instagram.com/p/DcPy0WuKIkH/",
+      "author": "karolloiralinda",
+      "published_at": "2026-08-20T03:30:43.000Z",
+      "text": "Uma louca tempestade \ud83e\ude77\ud83e\udd0d \n\n#beleza #fotos #followforfollow #foryou #mulheres",
+      "media_type": "Image",
+      "hashtags": [
+        "beleza",
+        "fotos",
+        "followforfollow",
+        "foryou",
+        "mulheres"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 1,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967615281615919951",
+      "external_id": "3967615281615919951",
+      "url": "https://www.instagram.com/p/DcPzRPKINtP/",
+      "author": "grupo.comprevai",
+      "published_at": "2026-08-20T03:30:23.000Z",
+      "text": "\ud83d\udd25 DESPENCOU O PRE\u00c7O! Ofertas em BELEZA com at\u00e9 40% OFF \ud83d\ude31\n\u23f0 Ofertas de 20/08/2026, v\u00e1lidas at\u00e9 as 23h59\n\n1. Neutrogena Hidratante Facial Hydro Boost Water Gel Refil, 50g \u2014 R$ 47,83\n \ud83d\udd17 comprevai.com.br/",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "ofertas",
+        "promocao",
+        "descontos",
+        "comprasonline",
+        "achadinhos",
+        "comprevai",
+        "beleza"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967607145218578634",
+      "external_id": "3967607145218578634",
+      "url": "https://www.instagram.com/p/DcPxa1jDhjK/",
+      "author": "edjaneribeiroo",
+      "published_at": "2026-08-20T03:14:10.000Z",
+      "text": "\u2728 Apaixonada por achadinhos que deixam tudo mais f\u00e1cil? \nSeparei dicas, inspira\u00e7\u00f5es e novidades que voc\u00ea vai querer salvar! \ud83d\udc40\u2728\n Quer receber conte\u00fados exclusivos, inspira\u00e7\u00f5es e achadinhos direto no ce",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "beleza",
+        "dicasdecasa",
+        "decoracao",
+        "utilidadesdomestica",
+        "publi"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967605463608222004",
+      "external_id": "3967605463608222004",
+      "url": "https://www.instagram.com/p/DcPxCXbRGE0/",
+      "author": "svimportovelhoshopping",
+      "published_at": "2026-08-20T03:11:56.000Z",
+      "text": "Finaliza\u00e7\u00e3o impec\u00e1vel \u00e9 aquela que transforma cada detalhe. \u2728\ud83d\udc85\n\nUnhas bem cuidadas, acabamento delicado e aquele toque de eleg\u00e2ncia que faz toda diferen\u00e7a.\n\nNo SVIM, seu momento de beleza tamb\u00e9m \u00e9 um ",
+      "media_type": "Image",
+      "hashtags": [
+        "svim",
+        "unhasperfeitas",
+        "naildesign",
+        "beleza",
+        "autocuidado"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967605835774238358",
+      "external_id": "3967605835774238358",
+      "url": "https://www.instagram.com/p/DcPxHyCFx6W/",
+      "author": "tva.creative",
+      "published_at": "2026-08-20T03:11:42.000Z",
+      "text": "Venha ver como pequenos ajustes fazem uma grande diferen\u00e7a. Na Barbearia Dom Carlos, respeitamos o seu estilo ao criar ou manter o visual desejado. Sem hora marcada, voc\u00ea pode chegar e ser atendido at",
+      "media_type": "Image",
+      "hashtags": [
+        "barbearia",
+        "transformacao",
+        "cortemasculino",
+        "barbeirofixo",
+        "estilo",
+        "beleza",
+        "visialnovo",
+        "semhora"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967604381930818271",
+      "external_id": "3967604381930818271",
+      "url": "https://www.instagram.com/p/DcPwyoCRQrf/",
+      "author": "af.beautystudio.26",
+      "published_at": "2026-08-20T03:08:43.000Z",
+      "text": "#beleza \n\ud83d\udc41\ufe0f\u2728",
+      "media_type": "Image",
+      "hashtags": [
+        "beleza"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967604376533295037",
+      "external_id": "3967604376533295037",
+      "url": "https://www.instagram.com/p/DcPwyjAjV-9/",
+      "author": "meuglowup.comm",
+      "published_at": "2026-08-20T03:08:40.000Z",
+      "text": "\ud83d\udcac Gostou? Coloque os IDs na barra de pesquisa da Shoppe, e garanta j\u00e1 seu produto! \ud83e\ude77\ud83e\udef6 Se voc\u00ea ama achadinhos que facilitam a rotina sem gastar muito, esse perfil \u00e9 pra voc\u00ea! \ud83d\udecd\ufe0f\u2728 #garotas #produtos #be",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "garotas",
+        "produtos",
+        "beleza",
+        "autocuidado",
+        "acessorios"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967602738962251253",
+      "external_id": "3967602738962251253",
+      "url": "https://www.instagram.com/p/DcPwat5tj31/",
+      "author": "schotenbeauty",
+      "published_at": "2026-08-20T03:08:00.000Z",
+      "text": "\u2728Um olhar que fala por si. \ud83e\udd0d\n.\n.\n.\n.\n.\n.\n#c\u00edlios #extensions #lash #design #beleza",
+      "media_type": "Image",
+      "hashtags": [
+        "c\u00edlios",
+        "extensions",
+        "lash",
+        "design",
+        "beleza"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967599707425956853",
+      "external_id": "3967599707425956853",
+      "url": "https://www.instagram.com/p/DcPvumkEWP1/",
+      "author": "studioluzfashion",
+      "published_at": "2026-08-20T02:59:24.000Z",
+      "text": "N\u00e3o entrego apenas cabelos lisos, Entrego um liso saud\u00e1vel personalizado e desenvolvido com uma t\u00e9cnica exclusiva. \u2728\n.\n.\n.\n#cabelo #resultadodemilh\u00f5es #brilhoespelhado #beleza #selagemsemformol",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "cabelo",
+        "resultadodemilh\u00f5es",
+        "brilhoespelhado",
+        "beleza",
+        "selagemsemformol"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967597711510006585",
+      "external_id": "3967597711510006585",
+      "url": "https://www.instagram.com/p/DcPvRjuNOs5/",
+      "author": "fetter_elisa",
+      "published_at": "2026-08-20T02:55:28.000Z",
+      "text": "\ud83d\udcaf\u2728\ud83d\udca5\n\n#viral #beleza",
+      "media_type": "Image",
+      "hashtags": [
+        "viral",
+        "beleza"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967596794861633871",
+      "external_id": "3967596794861633871",
+      "url": "https://www.instagram.com/p/DcPvEOBtMFP/",
+      "author": "mah.variedades.bage",
+      "published_at": "2026-08-20T02:53:39.000Z",
+      "text": "\u2728 CUIDE DA SUA PELE TODOS OS DIAS! \u2728\n\n\ud83e\udd29 Conhe\u00e7a a M\u00e1scara Hidratante facial Previne Rugas!! \ud83d\udc9c\n\n\ud83c\udf3f F\u00f3rmula com \u00f3leos vegetais\n\ud83d\udca7 Hidrata\u00e7\u00e3o profunda\n\u2728 Ajuda a melhorar a firmeza e a elasticidade da pele\n",
+      "media_type": "Image",
+      "hashtags": [
+        "mascarafacial",
+        "skincare",
+        "pelehidratada",
+        "beleza",
+        "bag\u00e9"
+      ],
+      "raw_metrics": {
+        "like_count": 3,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967596074621638439",
+      "external_id": "3967596074621638439",
+      "url": "https://www.instagram.com/p/DcPu5vQDpcn/",
+      "author": "mariaeduarrd.aa",
+      "published_at": "2026-08-20T02:52:11.000Z",
+      "text": "\ud83d\ude2e\u200d\ud83d\udca8\u2728#nailsdesigner #explore #beleza",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "nailsdesigner",
+        "explore",
+        "beleza"
+      ],
+      "raw_metrics": {
+        "like_count": -1,
+        "comments_count": 3,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967595972666711221",
+      "external_id": "3967595972666711221",
+      "url": "https://www.instagram.com/p/DcPu4QTEdy1/",
+      "author": "aline_braids_trancista",
+      "published_at": "2026-08-20T02:51:58.000Z",
+      "text": "Quando o resultado fala por s\u00ed - mesmo de costas \ud83d\ude18 \n\nVenha marcar seu hor\u00e1rio!! \n\n#tran\u00e7as #boxbraids #autocuidado #beleza",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "tran\u00e7as",
+        "boxbraids",
+        "autocuidado",
+        "beleza"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967595059834929667",
+      "external_id": "3967595059834929667",
+      "url": "https://www.instagram.com/p/DcPuq-KDkID/",
+      "author": "salaosocachos",
+      "published_at": "2026-08-20T02:50:15.000Z",
+      "text": "\ud83c\udf89 Voc\u00ea pediu e a gente trouxe! Conhe\u00e7a nosso novo tratamento para deixar seus cachos ainda mais incr\u00edveis! \n\nImagine ter fios definidos, saud\u00e1veis e com aquele brilho de dar inveja. \u2728 Esse produto foi",
+      "media_type": "Image",
+      "hashtags": [
+        "transformacao",
+        "beleza",
+        "solturasdecachos",
+        "cabelocacheado",
+        "salaosocachos"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967594933855279497",
+      "external_id": "3967594933855279497",
+      "url": "https://www.instagram.com/p/DcPupI1FVmJ/",
+      "author": "moca_bonita_ofc",
+      "published_at": "2026-08-20T02:49:55.000Z",
+      "text": "Acho chique cuidar de si, renovar a autoestima e sair do sal\u00e3o se sentindo ainda mais bonita. \u2728\ud83e\udd0e\n\n#autocuidado #beleza #autoestima #sal\u00e3o #secuide mulherbonita",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "autocuidado",
+        "beleza",
+        "autoestima",
+        "sal\u00e3o",
+        "secuide"
+      ],
+      "raw_metrics": {
+        "like_count": 18,
+        "comments_count": 11,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967622212325054961",
+      "external_id": "3967622212325054961",
+      "url": "https://www.instagram.com/p/DcP02F4lZnx/",
+      "author": "personal.millbody",
+      "published_at": "2026-08-20T03:44:14.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\n\ud83d\udd25 Spoiler: intensidade > dura\u00e7\u00e3o.\n\nO protocolo Millbody de treino r\u00e1pido:\n\u26a1 5min aquecimento\n\u26a1 20min ",
+      "media_type": "Image",
+      "hashtags": [
+        "1.",
+        "treino30min",
+        "treinorapido",
+        "millbody",
+        "fitness",
+        "treinointeligente",
+        "academia",
+        "personaltrainer",
+        "vidasaudavel",
+        "treinocurto",
+        "resultadosreais"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967622179955550002",
+      "external_id": "3967622179955550002",
+      "url": "https://www.instagram.com/p/DcP01nvNicy/",
+      "author": "primesuples",
+      "published_at": "2026-08-20T03:44:08.000Z",
+      "text": "\ud83c\udf81 10% OFF con el c\u00f3digo MOTIPRIME10 en primesuples.com\n\n6 meses van a pasar igual. Haz que valgan la pena. \ud83e\ude75\ud83d\udcaa\ud83c\udffc\n\n#Gym #Fitness #Motivacion #Prime",
+      "media_type": "Image",
+      "hashtags": [
+        "Gym",
+        "Fitness",
+        "Motivacion",
+        "Prime"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "provider": "bright_data",
+  "timestamp": "2026-08-20T04:30:00Z",
+  "api_key_prefix": "2ebe67c2...",
+  "status": "NOT_VIABLE",
+  "scenarios_tested": [
+    {
+      "scenario_id": "hashtag_discovery",
+      "scenario_name": "Hashtag Discovery",
+      "status": "NOT_SUPPORTED",
+      "records_returned": 0,
+      "error": "SERP API endpoint not found",
+      "duration_seconds": 0.5
+    },
+    {
+      "scenario_id": "reels_discovery",
+      "scenario_name": "Reels Discovery",
+      "status": "NOT_SUPPORTED",
+      "records_returned": 0,
+      "error": "SERP API endpoint not found",
+      "duration_seconds": 0.5
+    },
+    {
+      "scenario_id": "posts_discovery",
+      "scenario_name": "Posts Discovery",
+      "status": "NOT_SUPPORTED",
+      "records_returned": 0,
+      "error": "SERP API endpoint not found",
+      "duration_seconds": 0.5
+    }
+  ],
+  "total_records": 0,
+  "unique_records": 0,
+  "unique_creators": 0,
+  "freshness_rate": null,
+  "metadata_completeness": null,
+  "creator_diversity": null,
+  "duplicate_rate": null,
+  "view_count_availability": null,
+  "video_rate": null,
+  "reel_rate": null,
+  "hashtag_rate": null,
+  "timestamp_rate": null,
+  "cost": "COST_UNKNOWN",
+  "cost_per_1000": "COST_UNKNOWN",
+  "errors": [
+    {"scenario": "hashtag_discovery", "error": "SERP API endpoint not found"},
+    {"scenario": "reels_discovery", "error": "SERP API endpoint not found"},
+    {"scenario": "posts_discovery", "error": "SERP API endpoint not found"}
+  ],
+  "api_tests": [
+    {"endpoint": "GET /datasets/v3/datasets", "status": 404, "response": "Not found"},
+    {"endpoint": "POST /datasets/v3/trigger", "status": 404, "response": "Collector not found"},
+    {"endpoint": "POST /serp/request", "status": 404, "response": "Not found"},
+    {"endpoint": "POST /web_unlocker/request", "status": 404, "response": "Not found"},
+    {"endpoint": "GET /account", "status": 404, "response": "Not found"},
+    {"endpoint": "Proxy auth", "status": 407, "response": "Invalid Auth"}
+  ],
+  "decision": "NOT_VIABLE",
+  "reason": "API key could not authenticate with any Bright Data endpoint"
+}

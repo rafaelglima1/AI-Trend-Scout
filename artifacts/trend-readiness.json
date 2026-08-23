@@ -1,0 +1,23 @@
+{
+  "meta_official": {
+    "temporal_data": 0.0,
+    "creator_diversity": 0.0,
+    "engagement_metrics": 0.0,
+    "deduplication_quality": 100.0,
+    "total": 20.0
+  },
+  "bright_data": {
+    "temporal_data": 0.0,
+    "creator_diversity": 0.0,
+    "engagement_metrics": 0.0,
+    "deduplication_quality": 100.0,
+    "total": 20.0
+  },
+  "apify": {
+    "temporal_data": 88.41,
+    "creator_diversity": 86.67,
+    "engagement_metrics": 80.0,
+    "deduplication_quality": 100.0,
+    "total": 88.61
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "total_snapshots": 4,
+  "interval_seconds": 10,
+  "snapshots": [
+    {
+      "id": "T0",
+      "started_at": "2026-08-20T04:04:18.893584+00:00",
+      "keywords": [
+        "fitness"
+      ],
+      "content_count": 21,
+      "unique_content_count": 21,
+      "unique_creator_count": 20,
+      "error": null
+    },
+    {
+      "id": "T1",
+      "started_at": "2026-08-20T04:04:36.822646+00:00",
+      "keywords": [
+        "fitness",
+        "treino"
+      ],
+      "content_count": 36,
+      "unique_content_count": 36,
+      "unique_creator_count": 34,
+      "error": null
+    },
+    {
+      "id": "T2",
+      "started_at": "2026-08-20T04:05:02.128351+00:00",
+      "keywords": [
+        "fitness",
+        "treino",
+        "academia"
+      ],
+      "content_count": 60,
+      "unique_content_count": 57,
+      "unique_creator_count": 44,
+      "error": null
+    },
+    {
+      "id": "T3",
+      "started_at": "2026-08-20T04:05:26.520852+00:00",
+      "keywords": [
+        "fitness",
+        "treino",
+        "academia",
+        "workout"
+      ],
+      "content_count": 84,
+      "unique_content_count": 81,
+      "unique_creator_count": 68,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,1364 @@
+{
+  "snapshot_id": "T2",
+  "started_at": "2026-08-20T04:05:02.128351+00:00",
+  "completed_at": "2026-08-20T04:05:16.493772+00:00",
+  "provider": "apify",
+  "query": {
+    "keywords": [
+      "fitness",
+      "treino",
+      "academia"
+    ],
+    "label": "fitness_treino_academia"
+  },
+  "content_count": 60,
+  "unique_content_count": 57,
+  "unique_creator_count": 44,
+  "error": null,
+  "contents": [
+    {
+      "id": "3967624583289076735",
+      "external_id": "3967624583289076735",
+      "url": "https://www.instagram.com/p/DcP1YmBDXv_/",
+      "author": "silva_lili",
+      "author_name": "lily",
+      "author_id": "515022516",
+      "published_at": "2026-08-20T03:48:49.000Z",
+      "text": "\ud83d\udcaa\ud83c\udffe\n.\n.\n.\n.\n.\n\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#gym #treino #fitnessmotivation",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "gym",
+        "treino",
+        "fitnessmotivation"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967623450072582187",
+      "external_id": "3967623450072582187",
+      "url": "https://www.instagram.com/p/DcP1IGoFggr/",
+      "author": "ericasant00s",
+      "author_name": "\u00c9rica Santos",
+      "author_id": "7789971172",
+      "published_at": "2026-08-20T03:46:34.000Z",
+      "text": "\u201cO segredo \u00e9 amar o que faz, com seriedade e dedica\u00e7\u00e3o!\u201d\n\u2728\nUma quarta diferente e teve treino de gl\u00fateo e ombrinho\ud83d\ude0d\n\u2728\n.\n.\n.\n.\n\u2728\n#treino #gym #muscula\u00e7\u00e3o #lifestyle #mulherquetreina",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "treino",
+        "gym",
+        "muscula\u00e7\u00e3o",
+        "lifestyle",
+        "mulherquetreina"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967621924723790792",
+      "external_id": "3967621924723790792",
+      "url": "https://www.instagram.com/p/DcP0x6CNpPI/",
+      "author": "topachados.25",
+      "author_name": "TopAchados \ud83e\udde1\ud83d\udecd",
+      "author_id": "69686958352",
+      "published_at": "2026-08-20T03:43:34.000Z",
+      "text": "D\u00ea uma olhada em Conjunto Fitness Feminino 2 Pe\u00e7as \u2013 Leggings Sem Costura Cintura Alta + Top Fitness Colete, Academia, Treino e Yoga .\n\n#academia \n#treino \n#moda\n#dicas \n\nLink na bio Link nos destaques",
+      "media_type": "Image",
+      "hashtags": [
+        "academia",
+        "treino",
+        "moda",
+        "dicas"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967619761914064174",
+      "external_id": "3967619761914064174",
+      "url": "https://www.instagram.com/p/DcP0SbwtS0u/",
+      "author": "topachados.25",
+      "author_name": "TopAchados \ud83e\udde1\ud83d\udecd",
+      "author_id": "69686958352",
+      "published_at": "2026-08-20T03:39:17.000Z",
+      "text": "Mix Frutas Tropicais 50g -(7 Frutas): Chips de Banana, Jaca, Mam\u00e3o, Kiwi, Ma\u00e7\u00e3, Morango e Figo .\n\n#comprinhas \n#dicas\n#dia \n#dieta\n#treino \n\nLink na bio Link nos destaques",
+      "media_type": "Image",
+      "hashtags": [
+        "comprinhas",
+        "dicas",
+        "dia",
+        "dieta",
+        "treino"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967615338307658500",
+      "external_id": "3967615338307658500",
+      "url": "https://www.instagram.com/p/DcPzSD9OCME/",
+      "author": "michelle_bombom",
+      "author_name": "Michelle Bombom",
+      "author_id": "35614604776",
+      "published_at": "2026-08-20T03:34:31.000Z",
+      "text": "Comenta EU QUERO que te mando o link: Short Dryfit 2em1 Feminino Academia Bermuda Dupla Para Caminhada Treino e Outros Exerc\u00edcio * #vidasaudavel\n* #academia\n* #fitnessbrasil\n* #treino\n* #sa\u00fade\u00e9bemestar",
+      "media_type": "Image",
+      "hashtags": [
+        "vidasaudavel",
+        "academia",
+        "fitnessbrasil",
+        "treino",
+        "sa\u00fade\u00e9bemestar"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967616221238689458",
+      "external_id": "3967616221238689458",
+      "url": "https://www.instagram.com/p/DcPze6QAn6y/",
+      "author": "o_gil_jitsu",
+      "author_name": "O.GIL_JITSU",
+      "author_id": "19995984653",
+      "published_at": "2026-08-20T03:32:15.000Z",
+      "text": "Treine cansado. Treine com dor. Treine sem vontade. Mas treine.\n.\n#jiujitsu \n#jiujitsuparatodos \n#treino",
+      "media_type": "Image",
+      "hashtags": [
+        "jiujitsu",
+        "jiujitsuparatodos",
+        "treino"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967613157888109614",
+      "external_id": "3967613157888109614",
+      "url": "https://www.instagram.com/p/DcPyyVSFiwu/",
+      "author": "academiadzimba",
+      "author_name": "Academia D'Zimba",
+      "author_id": "47681302461",
+      "published_at": "2026-08-20T03:26:07.000Z",
+      "text": "\ud83e\uddab\ud83d\udc9a A capivara tamb\u00e9m veio pra D\u2019ZIMBA!\n\nHoje tivemos uma visita pra l\u00e1 de especial! \ud83d\ude02\ud83e\uddab\n\nA capivara deu um rol\u00ea por Imbituba e, claro, n\u00e3o poderia deixar de passar na Academia D\u2019ZIMBA!\n\nTeve treino com a equipe, fotinhos, muita divers\u00e3o e, pra fechar, cardio em dia! \ud83d\udcaa\ud83d\udd25\ud83c\udfc3\u200d\u2640\ufe0f\n\nAqui at\u00e9 a capivara sabe: cuidar da sa\u00fade, se movimentar e manter o foco faz toda a diferen\u00e7a! \ud83d\udc9a\n\nD\u2019ZIMBA: onde at\u00e9 a capivara vem treinar! \ud83d\ude02\ud83e\uddab\ud83d\udcaa\n\n#AcademiaDZimba #Imbituba #CapivaraNaDZimba #Treino #Cardio Sa\u00fade EquipeDZimba VemPraDZimba",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "AcademiaDZimba",
+        "Imbituba",
+        "CapivaraNaDZimba",
+        "Treino",
+        "Cardio"
+      ],
+      "raw_metrics": {
+        "like_count": 19,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967612356364456403",
+      "external_id": "3967612356364456403",
+      "url": "https://www.instagram.com/p/DcPymqzjdHT/",
+      "author": "soucrisavila",
+      "author_name": "Cris \u00c1vila | Jornalista",
+      "author_id": "263506945",
+      "published_at": "2026-08-20T03:24:31.000Z",
+      "text": "Mais um dia de treino por aqui. \ud83c\udfcb\ud83c\udffb\u200d\u2640\ufe0f\u2728\n\nAos poucos, fui entendendo que cuidar de mim n\u00e3o precisa ser uma promessa de segunda-feira, nem uma fase passageira. Faz parte da minha rotina.\n\nTem dia de treino bom, tem dia de treino dif\u00edcil, tem dia que vou animada e tem dia que vou na for\u00e7a do compromisso mesmo. \ud83d\ude02\n\nO importante \u00e9 continuar.\n\nE entre, uma garrafinha de \u00e1gua e outra, vou construindo meu ritmo, meu corpo e, principalmente, uma rela\u00e7\u00e3o melhor comigo mesma. \u2764\ufe0f\n\nSem pressa. Sem perfei\u00e7\u00e3o. S\u00f3 const\u00e2ncia.\n\n\ud83d\udccd Hoje o treino foi na @bt_pantanalshopping \ud83d\udcaa\ud83c\udffb\n\n#Treino #Academia #VidaReal #Foco #Disciplina Const\u00e2ncia CuidarDeMim MulherQueSeCuida FitnessFeminino Rotina QualidadeDeVida ProjetoPessoal TreinoFeminino 47Anos",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "Treino",
+        "Academia",
+        "VidaReal",
+        "Foco",
+        "Disciplina"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967608394231268249",
+      "external_id": "3967608394231268249",
+      "url": "https://www.instagram.com/p/DcPxtAyA0OZ/",
+      "author": "dyogym",
+      "author_name": "Diogo \ud83e\udd88",
+      "author_id": "1931033061",
+      "published_at": "2026-08-20T03:18:05.000Z",
+      "text": "Feliz Anivers\u00e1rio Ganley, obrigado por me inspirar.\n\n\u201c Fazendo o que amo do jeito que amo\u201d\n#ganley #fisiculturismo #maromba #treino",
+      "media_type": "Image",
+      "hashtags": [
+        "ganley",
+        "fisiculturismo",
+        "maromba",
+        "treino"
+      ],
+      "raw_metrics": {
+        "like_count": null,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967590697258593807",
+      "external_id": "3967590697258593807",
+      "url": "https://www.instagram.com/p/DcPtrfMPi4P/",
+      "author": "danielsilvacunhatt",
+      "author_name": "Daniel Silva cunha",
+      "author_id": "1608401337",
+      "published_at": "2026-08-20T03:12:47.000Z",
+      "text": "Leia a legenda e entenda por que essa foto n\u00e3o \u00e9 sobre emagrecimento.\n\nMudar a sua MENTALIDADE \u00e9 um dos pontos mais importantes para alcan\u00e7ar qualquer resultado. O corpo dificilmente muda de verdade quando a cabe\u00e7a continua exatamente a mesma.\n\nO processo n\u00e3o \u00e9 f\u00e1cil. E tudo fica ainda mais dif\u00edcil quando voc\u00ea tenta mudar por fora sem antes come\u00e7ar a mudan\u00e7a por dentro.\n\nEsse foi, inclusive, um dos motivos que me fizeram desistir da cirurgia bari\u00e1trica.\n\nPra ser sincero, levando em considera\u00e7\u00e3o os poss\u00edveis efeitos colaterais, eu percebi que operar sem antes trabalhar minha mente seria, para mim, como entrar em uma roleta-russa com uma arma completamente carregada.\n\nEnt\u00e3o comecei por onde talvez eu j\u00e1 devesse ter come\u00e7ado: pela cabe\u00e7a.\n\nTrabalhei meu psicol\u00f3gico. Comecei a mudar pensamentos, comportamentos e a forma como eu enxergava todo o processo. E, aos poucos, as coisas come\u00e7aram a se encaixar.\n\nN\u00e3o aconteceu do dia para a noite.\n\n\u00c9 UM DIA AP\u00d3S O OUTRO.\nUma escolha de cada vez.\nUma pequena vit\u00f3ria de cada vez.\n\nAprendi a substituir pensamentos que me derrubavam por pensamentos que me faziam continuar.\n\nAprendi a comemorar cada conquista, mesmo as pequenas.\n\nE, principalmente, aprendi que as dores do processo n\u00e3o precisam ser motivo para desistir.\n\nElas podem virar combust\u00edvel.\n\nPorque talvez a maior transforma\u00e7\u00e3o n\u00e3o seja aquela que as pessoas conseguem enxergar no seu corpo.\n\u00c9 aquela que acontece na sua cabe\u00e7a antes de todo mundo conseguir enxergar o resultado.\n\n\u201cQual batalha voc\u00ea est\u00e1 vencendo hoje que ningu\u00e9m consegue enxergar?\u201d\n\n#ProjetoDeVida #VidaSaud\u00e1vel #Treino #Academia #Emagrecimento QualidadeDeVida EstiloDeVidaSaud\u00e1vel",
+      "media_type": "Image",
+      "hashtags": [
+        "ProjetoDeVida",
+        "VidaSaud\u00e1vel",
+        "Treino",
+        "Academia",
+        "Emagrecimento"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967601420824063677",
+      "external_id": "3967601420824063677",
+      "url": "https://www.instagram.com/p/DcPwHiSja69/",
+      "author": "nofocophotos",
+      "author_name": "No Foco Photos",
+      "author_id": "38560324915",
+      "published_at": "2026-08-20T03:02:48.000Z",
+      "text": "Alguns dos meus registros na Marechal Castelo Branco \ud83d\udcf8\ud83c\udfc3\ud83c\udffd\u200d\u2642\ufe0f\n.\n.\n.\n.\n.\n#treino #corridaderua",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "treino",
+        "corridaderua"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967600166819427847",
+      "external_id": "3967600166819427847",
+      "url": "https://www.instagram.com/p/DcPv1SaDXYH/",
+      "author": "kawanrelvaspro",
+      "author_name": "Kawan Relvas",
+      "author_id": "80408487873",
+      "published_at": "2026-08-20T03:00:18.000Z",
+      "text": "19/08/2025 para 19/08/2026... Muitos querem os resultados, mas poucos fazem o que precisa ser feito.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#gym #academia #lifestyle #treino",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "gym",
+        "academia",
+        "lifestyle",
+        "treino"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967599120692965945",
+      "external_id": "3967599120692965945",
+      "url": "https://www.instagram.com/p/DcPvmEIDnI5/",
+      "author": "yujiroworkout",
+      "author_name": "Adriano | ATLETA - TREINADOR",
+      "author_id": "807015855",
+      "published_at": "2026-08-20T02:58:14.000Z",
+      "text": "Agora voc\u00eas entendem, porque amo essas duas academias\n.\n.\n.\n#academia #treino #oldshool #bodybuilding",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "academia",
+        "treino",
+        "oldshool",
+        "bodybuilding"
+      ],
+      "raw_metrics": {
+        "like_count": -1,
+        "comments_count": 3
+      }
+    },
+    {
+      "id": "3967597150183059676",
+      "external_id": "3967597150183059676",
+      "url": "https://www.instagram.com/p/DcPvJY8g3Dc/",
+      "author": "luis.almeida07",
+      "author_name": "Lu\u00eds Almeida",
+      "author_id": "59461264381",
+      "published_at": "2026-08-20T02:57:59.000Z",
+      "text": "\u2026\u2026.\n.\n.\n.\n.\n.\n#treino #gym #explore #fitness #followforfollowback",
+      "media_type": "Image",
+      "hashtags": [
+        "treino",
+        "gym",
+        "explore",
+        "fitness",
+        "followforfollowback"
+      ],
+      "raw_metrics": {
+        "like_count": 8,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967598818428652958",
+      "external_id": "3967598818428652958",
+      "url": "https://www.instagram.com/p/DcPvhqnsw2e/",
+      "author": "ryteixeira",
+      "author_name": "\ud83c\udf3b Ry Teixeira \ud83c\udf3f",
+      "author_id": "1018307098",
+      "published_at": "2026-08-20T02:57:40.000Z",
+      "text": "Foi escrito no Livro \ud83d\udcd5 do fitness \ud83d\udcaa Cap. 8  V.  5...\nVc \ud83e\udef5 concorda?\n#fitnessmotivation #amigasfitness2024 #treino #aerobica",
+      "media_type": "Image",
+      "hashtags": [
+        "fitnessmotivation",
+        "amigasfitness2024",
+        "treino",
+        "aerobica"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967622212325054961",
+      "external_id": "3967622212325054961",
+      "url": "https://www.instagram.com/p/DcP02F4lZnx/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:44:14.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\n\ud83d\udd25 Spoiler: intensidade > dura\u00e7\u00e3o.\n\nO protocolo Millbody de treino r\u00e1pido:\n\u26a1 5min aquecimento\n\u26a1 20min circuito full body\n\u26a1 5min alongamento\n\nResultado n\u00e3o vem de horas na academia. Vem de m\u00e9todo, const\u00e2ncia e intensidade.\n\nSalva esse post pra montar seu treino r\u00e1pido! \ud83d\udcaa\n\n\ud83d\udce9 Link na bio para avalia\u00e7\u00e3o gratuita.\n\n#treino30min #treinorapido #millbody #fitness #treinointeligente #academia #personaltrainer #vidasaudavel #treinocurto #resultadosreais",
+      "media_type": "Image",
+      "hashtags": [
+        "treino30min",
+        "treinorapido",
+        "millbody",
+        "fitness",
+        "treinointeligente",
+        "academia",
+        "personaltrainer",
+        "vidasaudavel",
+        "treinocurto",
+        "resultadosreais"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967622179955550002",
+      "external_id": "3967622179955550002",
+      "url": "https://www.instagram.com/p/DcP01nvNicy/",
+      "author": "primesuples",
+      "author_name": "PRIME - Suplementos",
+      "author_id": "33846766157",
+      "published_at": "2026-08-20T03:44:08.000Z",
+      "text": "\ud83c\udf81 10% OFF con el c\u00f3digo MOTIPRIME10 en primesuples.com\n\n6 meses van a pasar igual. Haz que valgan la pena. \ud83e\ude75\ud83d\udcaa\ud83c\udffc\n\n#Gym #Fitness #Motivacion #Prime",
+      "media_type": "Image",
+      "hashtags": [
+        "Gym",
+        "Fitness",
+        "Motivacion",
+        "Prime"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967621738815514729",
+      "external_id": "3967621738815514729",
+      "url": "https://www.instagram.com/p/DcP0vM5N2hp/",
+      "author": "dany241086",
+      "author_name": "Dany Alatorre Romero",
+      "author_id": "274058049",
+      "published_at": "2026-08-20T03:43:14.000Z",
+      "text": "Dos noches m\u00e1s .... \u2705\ud83c\udfe0\ud83d\udc9d\ud83e\udec2\ud83d\ude4f\ud83c\udffb\ud83d\ude9b\ud83d\udcbb \ud83d\udc9a\ud83e\ude77\ud83e\ude77\ud83e\ude77\ud83e\ude77\u2665\ufe0f\u2665\ufe0f\ud83d\udc36\ud83c\udfe0\ud83c\uddf5\ud83c\udde6\n#momlife\u2764\ufe0f\n#momfitness \n#fitness \n#fitnesslife \n#fitnessmotivation",
+      "media_type": "Image",
+      "hashtags": [
+        "momlife\u2764\ufe0f",
+        "momfitness",
+        "fitness",
+        "fitnesslife",
+        "fitnessmotivation"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967621529554174394",
+      "external_id": "3967621529554174394",
+      "url": "https://www.instagram.com/p/DcP0sKARMG6/",
+      "author": "pradhuman_lifter",
+      "author_name": "pradhuman_lifter",
+      "author_id": "61242720838",
+      "published_at": "2026-08-20T03:42:48.000Z",
+      "text": "@atulchaudhary717 guru ji knowledge is power \ud83d\ude4f#gym #fitness # viral post #bodybuilding #instagram #less",
+      "media_type": "Image",
+      "hashtags": [
+        "gym",
+        "fitness",
+        "bodybuilding",
+        "instagram",
+        "less"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967617041245281732",
+      "external_id": "3967617041245281732",
+      "url": "https://www.instagram.com/p/DcPzq18Nh3E/",
+      "author": "tsubasa.toyama",
+      "author_name": "TSUBASA TOYAMA",
+      "author_id": "4358075566",
+      "published_at": "2026-08-20T03:42:22.000Z",
+      "text": ".\n8\u670823\u65e5 21:00 \u304b\u3089\u8ca9\u58f2START\u203c\ufe0e\n\n#bittersweet\n#fitness\n#\u30d5\u30a3\u30c3\u30c8\u30cd\u30b9\n#\u30b9\u30c8\u30ea\u30fc\u30c8",
+      "media_type": "Image",
+      "hashtags": [
+        "bittersweet",
+        "fitness",
+        "\u30d5\u30a3\u30c3\u30c8\u30cd\u30b9",
+        "\u30b9\u30c8\u30ea\u30fc\u30c8"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967621222117346922",
+      "external_id": "3967621222117346922",
+      "url": "https://www.instagram.com/p/DcP0nrrmw5q/",
+      "author": "lyftsbyava",
+      "author_name": "",
+      "author_id": "45323331189",
+      "published_at": "2026-08-20T03:42:08.000Z",
+      "text": "im too lazy so here\u2019s whatever this is \n\n#upperbody #gymgirl #dfyne #fitness #gyminspiration",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "upperbody",
+        "gymgirl",
+        "dfyne",
+        "fitness",
+        "gyminspiration"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 2
+      }
+    },
+    {
+      "id": "3967621154915355318",
+      "external_id": "3967621154915355318",
+      "url": "https://www.instagram.com/p/DcP0mtGDgq2/",
+      "author": "tammy.fitwear",
+      "author_name": "\u2605Outfits | Streetwear Fitness\u2605",
+      "author_id": "59104914318",
+      "published_at": "2026-08-20T03:42:00.000Z",
+      "text": "No subestimes el clima\u2026 las ma\u00f1anas a\u00fan son fr\u00edas \ud83e\udd2d vive tu experiencia fitness calentita con tus polainas deportivas \u2728\nComplementa tu outfit con intenci\u00f3n pr\u00e1ctica\ud83d\udc8b\n\n#polainas #polainasdeportivas #fitness #sportinvierno",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "polainas",
+        "polainasdeportivas",
+        "fitness",
+        "sportinvierno"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620738573768341",
+      "external_id": "3967620738573768341",
+      "url": "https://www.instagram.com/p/DcP0gpWKZaV/",
+      "author": "ratnakarjagannath",
+      "author_name": "Ratnakar Jagannath Nikam",
+      "author_id": "3208763063",
+      "published_at": "2026-08-20T03:41:17.000Z",
+      "text": "#Cycling #MorningRide #Ambajogai #Fitness #HealthyLifestyle CyclingLife",
+      "media_type": "Image",
+      "hashtags": [
+        "Cycling",
+        "MorningRide",
+        "Ambajogai",
+        "Fitness",
+        "HealthyLifestyle"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 1
+      }
+    },
+    {
+      "id": "3967620495002886824",
+      "external_id": "3967620495002886824",
+      "url": "https://www.instagram.com/p/DcP0dGgNOKo/",
+      "author": "thescarredsaint",
+      "author_name": "Anthony Flores",
+      "author_id": "5533795542",
+      "published_at": "2026-08-20T03:41:09.000Z",
+      "text": "The mats don\u2019t care what you lift. Great work tonight \ud83e\udd1d\n\n#bjj #training #fitness #martialarts #strength",
+      "media_type": "Image",
+      "hashtags": [
+        "bjj",
+        "training",
+        "fitness",
+        "martialarts",
+        "strength"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620632968670272",
+      "external_id": "3967620632968670272",
+      "url": "https://www.instagram.com/p/DcP0fG_m6xA/",
+      "author": "maia.maee",
+      "author_name": "Maia Maee",
+      "author_id": "80073154665",
+      "published_at": "2026-08-20T03:40:58.000Z",
+      "text": "She\u2019s getting her spark back \n\nNeed to get more flags up \ud83d\ude2e\u200d\ud83d\udca8\n\nMy little babyyyyyy always with me \n\nMY BABBBYYY\n\nLittle guard dog \ud83e\udd7a\ud83e\udef6\n\n#fitness#thatgirl#sel\ufb01mprovement#lean#dfyneactivewear",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "fitness",
+        "thatgirl",
+        "sel\ufb01mprovement",
+        "lean",
+        "dfyneactivewear"
+      ],
+      "raw_metrics": {
+        "like_count": 44,
+        "comments_count": 1
+      }
+    },
+    {
+      "id": "3967610135499029784",
+      "external_id": "3967610135499029784",
+      "url": "https://www.instagram.com/p/DcPyGWdqL0Y/",
+      "author": "maia.maee",
+      "author_name": "Maia Maee",
+      "author_id": "80073154665",
+      "published_at": "2026-08-20T03:40:57.000Z",
+      "text": "#fitness#thatgirl#sel\ufb01mprovement#lean#dfyneactivewear",
+      "media_type": "Image",
+      "hashtags": [
+        "fitness",
+        "thatgirl",
+        "sel\ufb01mprovement",
+        "lean",
+        "dfyneactivewear"
+      ],
+      "raw_metrics": {
+        "like_count": null,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620395991905084",
+      "external_id": "3967620395991905084",
+      "url": "https://www.instagram.com/p/DcP0bqSsTM8/",
+      "author": "garage_wod",
+      "author_name": "Garage WOD",
+      "author_id": "7283803720",
+      "published_at": "2026-08-20T03:40:57.000Z",
+      "text": "Thursday 08.20.26\n-\n-\n-\n#Workout #Fitness #CrossFit #Nutrition #Gym",
+      "media_type": "Image",
+      "hashtags": [
+        "Workout",
+        "Fitness",
+        "CrossFit",
+        "Nutrition",
+        "Gym"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620481848226271",
+      "external_id": "3967620481848226271",
+      "url": "https://www.instagram.com/p/DcP0c6QILHf/",
+      "author": "neerajhdrectifier",
+      "author_name": "NEERAJH | FITNESS MODEL",
+      "author_id": "4560795207",
+      "published_at": "2026-08-20T03:40:40.000Z",
+      "text": "Self-love isn\u2019t selfish \u2014 it\u2019s knowing your worth, protecting your peace, and becoming the best version of yourself. \ud83d\udda4\ud83d\udd25#brother #love #selflove #fitness #explorar",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "brother",
+        "love",
+        "selflove",
+        "fitness",
+        "explorar"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620445197216169",
+      "external_id": "3967620445197216169",
+      "url": "https://www.instagram.com/p/DcP0cYHjqmp/",
+      "author": "b.withrwc",
+      "author_name": "brooke humphrey",
+      "author_id": "47290051",
+      "published_at": "2026-08-20T03:40:36.000Z",
+      "text": "Tomorrow doesn\u2019t start at 5am, it starts at 8pm \ud83e\udef6\ud83c\udffd\n\nHere\u2019s what I\u2019ve learned after years of \u201ctrying\u201d to be a morning person: motivation is not the variable. Friction is.\n\nThe morning you skip isn\u2019t usually the one you didn\u2019t want bad enough, it\u2019s the one where you had to find your shoes, decide what to eat, refill your water, and figure out what you were even doing that day, all before your brain came online. That\u2019s four decisions standing between you and the thing you said mattered. Tired-you loses that fight almost every time.\n\nSo I stopped trying to be more disciplined at 5am and started being more prepared at 8pm.\n\nNone of these take more than a few minutes (at most) and all of them make the next morning feel like it\u2019s on my side. That\u2019s really what prep is, it\u2019s not productivity, it\u2019s kindness. It\u2019s you deciding ahead of time to make things easier for the version of you who\u2019s going to be tired, cold, and short on willpower.\n\nAnd I\u2019d rather build a life where I don\u2019t have to white-knuckle every good decision. Where obedience and consistency feel less like a fight and more like a path that\u2019s already been cleared.\n\nStart with one. Pick the thing that makes your mornings hardest and remove it the night before. Do that for a week and tell me what changes. \ud83e\udef6\ud83c\udffd\n\nWhich one are you stealing tonight? \ud83d\udc47\ud83c\udffd\n\n#fitness #inspiration #habits #dothework",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "fitness",
+        "inspiration",
+        "habits",
+        "dothework"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 1
+      }
+    },
+    {
+      "id": "3967620323682636390",
+      "external_id": "3967620323682636390",
+      "url": "https://www.instagram.com/p/DcP0am8uVJm/",
+      "author": "deyvinquiang",
+      "author_name": "Deyvin Quintana Angarita",
+      "author_id": "1439697930",
+      "published_at": "2026-08-20T03:40:24.000Z",
+      "text": "Quien se iba a imaginar que ser\u00eda tan constante y que cambiar\u00eda hasta mi apariencia de edad \ud83e\udd29\n\n#motivation #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\u2665\ufe0f #oca\u00f1a #gymtime #fitness",
+      "media_type": "Image",
+      "hashtags": [
+        "motivation",
+        "paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\u2665\ufe0f",
+        "oca\u00f1a",
+        "gymtime",
+        "fitness"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620298330648913",
+      "external_id": "3967620298330648913",
+      "url": "https://www.instagram.com/p/DcP0aPVoLFR/",
+      "author": "vivek_rahmapuriya",
+      "author_name": "\u0935\u093f\u0935\u0947\u0915 \u0930\u0939\u092e\u093e\u092a\u0941\u0930\u093f\u092f\u093e\ud83e\udd81",
+      "author_id": "79608029485",
+      "published_at": "2026-08-20T03:40:18.000Z",
+      "text": "\u092e\u0947\u0930\u0947 \u092d\u093e\u0908\u2764\ufe0f\u200d\ud83e\ude79\u0930\u0940\u0932 \u091a\u0932\u093e\u0924\u0947 \u091a\u0932\u093e\u0924\u0947 \u0925\u093e\u0915 \u0917\u092f\u093e \u0939\u094b\u0917\u093e  @vivek_rahmapuriya #fitness #motivation #bodybuilding #follow #viralpost",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "fitness",
+        "motivation",
+        "bodybuilding",
+        "follow",
+        "viralpost"
+      ],
+      "raw_metrics": {
+        "like_count": 3,
+        "comments_count": 1
+      }
+    },
+    {
+      "id": "3967620212433954606",
+      "external_id": "3967620212433954606",
+      "url": "https://www.instagram.com/p/DcP0Y_VyScu/",
+      "author": "yae_for_yyh",
+      "author_name": "e",
+      "author_id": "68350633522",
+      "published_at": "2026-08-20T03:40:17.000Z",
+      "text": "#fitness",
+      "media_type": "Image",
+      "hashtags": [
+        "fitness"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620111355377619",
+      "external_id": "3967620111355377619",
+      "url": "https://www.instagram.com/p/DcP0XhNCHfT/",
+      "author": "train.withqureshi",
+      "author_name": "train.withqureshi",
+      "author_id": "59215700198",
+      "published_at": "2026-08-20T03:39:56.000Z",
+      "text": "@hustlersonly.official code/AQ10\n.\n.\n.\n#trending #viral #fitness #gymmotivation #instagram",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "trending",
+        "viral",
+        "fitness",
+        "gymmotivation",
+        "instagram"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 1
+      }
+    },
+    {
+      "id": "3967619372427630388",
+      "external_id": "3967619372427630388",
+      "url": "https://www.instagram.com/p/DcP0MxBgdc0/",
+      "author": "kristal_a_relentless",
+      "author_name": "Kristal Dawn",
+      "author_id": "33483736",
+      "published_at": "2026-08-20T03:39:46.000Z",
+      "text": "A little wild never looked so feminine \ud83c\udf80\ud83e\ude75\ud83d\udc06 \n.\n.\n.\n.\n#bodybuilding \n#cheetah \n#bikini\n#musclemommy \n#fitness",
+      "media_type": "Image",
+      "hashtags": [
+        "bodybuilding",
+        "cheetah",
+        "bikini",
+        "musclemommy",
+        "fitness"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 2
+      }
+    },
+    {
+      "id": "3967620015743517231",
+      "external_id": "3967620015743517231",
+      "url": "https://www.instagram.com/p/DcP0WIKH0Iv/",
+      "author": "g___e2",
+      "author_name": "\u1100\u1161\u11bc\u110b\u1175",
+      "author_id": "7809313155",
+      "published_at": "2026-08-20T03:39:45.000Z",
+      "text": "\ud83d\ude0e",
+      "media_type": "Sidecar",
+      "hashtags": [],
+      "raw_metrics": {
+        "like_count": -1,
+        "comments_count": 2
+      }
+    },
+    {
+      "id": "3967263474997511967",
+      "external_id": "3967263474997511967",
+      "url": "https://www.instagram.com/p/DcOjRxtm8cf/",
+      "author": "movewith_gq",
+      "author_name": "GB",
+      "author_id": "43719507810",
+      "published_at": "2026-08-19T15:51:22.000Z",
+      "text": "this is your sign. \u2615\ufe0f \n.\n#momlifebelike #workout #lifestyle #cardio #stussy",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "momlifebelike",
+        "workout",
+        "lifestyle",
+        "cardio",
+        "stussy"
+      ],
+      "raw_metrics": {
+        "like_count": -1,
+        "comments_count": 3
+      }
+    },
+    {
+      "id": "3967632086580323778",
+      "external_id": "3967632086580323778",
+      "url": "https://www.instagram.com/p/DcP3FyAD-XC/",
+      "author": "confworld_inc",
+      "author_name": "Confworld Educational Research & Development Association",
+      "author_id": "67053047573",
+      "published_at": "2026-08-20T04:03:44.000Z",
+      "text": "\ud83d\udcda Anatomy of a Research Article\n\nA strong research paper isn\u2019t just about presenting new findings it\u2019s about presenting them in a clear, logical structure.\n\nFrom Title & Abstract to References & Appendices, every section has a purpose.\n\n\ud83d\udcdd Title & Abstract\n\ud83d\udca1 Introduction\n\ud83d\udcda Literature Review\n\u2699\ufe0f Methodology\n\ud83c\udfaf Scope & Limitations\n\ud83d\udcca Results\n\ud83d\udcac Discussion\n\ud83c\udfc6 Conclusion\n\ud83d\udcd6 References\n\ud83d\udcce Appendices\n\nThe real key? \ud83d\udd17 Make sure all sections connect your research gap \u2192 questions \u2192 methodology \u2192 results \u2192 conclusion should tell one clear story.\n\n\ud83d\udccc Save this post for your next research paper!\n\nFor more information, contact us.\n\n\ud83d\udd17 Official Website: https://confworld.org/\n\n\ud83d\udd17 Call for Papers: https://cerada.in/\n\n\ud83d\udd17 Register Now: https://cerada.in/registration-fees \n\n#ResearchTips #ResearchPaper #AcademicWriting #PhDResearch #ResearchScholar #AcademicPublishing #Scopus #WebOfScience #ResearchMethodology #Academia #CERADA",
+      "media_type": "Image",
+      "hashtags": [
+        "ResearchTips",
+        "ResearchPaper",
+        "AcademicWriting",
+        "PhDResearch",
+        "ResearchScholar",
+        "AcademicPublishing",
+        "Scopus",
+        "WebOfScience",
+        "ResearchMethodology",
+        "Academia",
+        "CERADA"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967629191277395796",
+      "external_id": "3967629191277395796",
+      "url": "https://www.instagram.com/p/DcP2bpijz9U/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:58:04.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\nO segredo? Intensidade > dura\u00e7\u00e3o. \ud83d\udd25\n\nO protocolo Millbody de treino r\u00e1pido funciona assim:\n\u26a1 5min de aquecimento\n\u26a1 20min de circuito full body\n\u26a1 5min de alongamento\n\nSimples, direto e eficiente. O que importa n\u00e3o \u00e9 quanto tempo voc\u00ea tem, mas o que voc\u00ea faz com ele.\n\nSalva esse post pra montar seu treino r\u00e1pido! \ud83d\udcaa\n\nQual seu maior desafio: falta de tempo ou falta de dire\u00e7\u00e3o? Responde a\u00ed \ud83d\udc47\n\n#treinoemcasa #treinorapido #millbody #personaltrainer #fitness #treino30min #vidasaudavel #academia #treinofuncional #saude",
+      "media_type": "Image",
+      "hashtags": [
+        "treinoemcasa",
+        "treinorapido",
+        "millbody",
+        "personaltrainer",
+        "fitness",
+        "treino30min",
+        "vidasaudavel",
+        "academia",
+        "treinofuncional",
+        "saude"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967627090325236267",
+      "external_id": "3967627090325236267",
+      "url": "https://www.instagram.com/p/DcP19E4DWor/",
+      "author": "massa_achei",
+      "author_name": "Achei",
+      "author_id": "69046423310",
+      "published_at": "2026-08-20T03:53:48.000Z",
+      "text": "Conjunto de Academia Feminino Legging + Top Confort\u00e1vel\n\n#conjunto #academia #feminino #leggin",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "conjunto",
+        "academia",
+        "feminino",
+        "leggin"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967623445978433029",
+      "external_id": "3967623445978433029",
+      "url": "https://www.instagram.com/p/DcP1IC0DkYF/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:46:39.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\nO protocolo Millbody de treino r\u00e1pido \u00e9 simples:\n\ud83d\udd25 5min aquecimento\n\ud83d\udd25 20min circuito intenso\n\ud83d\udd25 5min alongamento\n\nIntensidade > dura\u00e7\u00e3o. Sempre.\n\nSalva esse post pra montar seu treino r\u00e1pido e me conta: quanto tempo voc\u00ea consegue dedicar ao treino hoje? \ud83d\udc47\n\n#treino30min #millbody #treinorapido #fitness #saude #academia #personaltrainer #protocolo #treinoeficiente",
+      "media_type": "Image",
+      "hashtags": [
+        "treino30min",
+        "millbody",
+        "treinorapido",
+        "fitness",
+        "saude",
+        "academia",
+        "personaltrainer",
+        "protocolo",
+        "treinoeficiente"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967622311872646404",
+      "external_id": "3967622311872646404",
+      "url": "https://www.instagram.com/p/DcP03imFU0E/",
+      "author": "academiariogrande",
+      "author_name": "academia.rg",
+      "author_id": "66663591799",
+      "published_at": "2026-08-20T03:44:18.000Z",
+      "text": "#ACADEMIA.RG",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "ACADEMIA.RG"
+      ],
+      "raw_metrics": {
+        "like_count": 8,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967622212325054961",
+      "external_id": "3967622212325054961",
+      "url": "https://www.instagram.com/p/DcP02F4lZnx/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:44:14.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\n\ud83d\udd25 Spoiler: intensidade > dura\u00e7\u00e3o.\n\nO protocolo Millbody de treino r\u00e1pido:\n\u26a1 5min aquecimento\n\u26a1 20min circuito full body\n\u26a1 5min alongamento\n\nResultado n\u00e3o vem de horas na academia. Vem de m\u00e9todo, const\u00e2ncia e intensidade.\n\nSalva esse post pra montar seu treino r\u00e1pido! \ud83d\udcaa\n\n\ud83d\udce9 Link na bio para avalia\u00e7\u00e3o gratuita.\n\n#treino30min #treinorapido #millbody #fitness #treinointeligente #academia #personaltrainer #vidasaudavel #treinocurto #resultadosreais",
+      "media_type": "Image",
+      "hashtags": [
+        "treino30min",
+        "treinorapido",
+        "millbody",
+        "fitness",
+        "treinointeligente",
+        "academia",
+        "personaltrainer",
+        "vidasaudavel",
+        "treinocurto",
+        "resultadosreais"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967621924723790792",
+      "external_id": "3967621924723790792",
+      "url": "https://www.instagram.com/p/DcP0x6CNpPI/",
+      "author": "topachados.25",
+      "author_name": "TopAchados \ud83e\udde1\ud83d\udecd",
+      "author_id": "69686958352",
+      "published_at": "2026-08-20T03:43:34.000Z",
+      "text": "D\u00ea uma olhada em Conjunto Fitness Feminino 2 Pe\u00e7as \u2013 Leggings Sem Costura Cintura Alta + Top Fitness Colete, Academia, Treino e Yoga .\n\n#academia \n#treino \n#moda\n#dicas \n\nLink na bio Link nos destaques",
+      "media_type": "Image",
+      "hashtags": [
+        "academia",
+        "treino",
+        "moda",
+        "dicas"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967621483785322951",
+      "external_id": "3967621483785322951",
+      "url": "https://www.instagram.com/p/DcP0rfYO4HH/",
+      "author": "vistabellafit",
+      "author_name": "Bella Fit | Moda Fitness \ud83e\udde1",
+      "author_id": "39162211378",
+      "published_at": "2026-08-20T03:42:42.000Z",
+      "text": "Agora saiu! \ud83e\udd0e\u2728\n\nA Vista Bella Fit j\u00e1 est\u00e1 dispon\u00edvel para compra no Mercado Livre.\nQualidade, conforto, sustenta\u00e7\u00e3o e aquele caimento que valoriza o corpo. \ud83d\udd25\n\n\ud83d\udecd\ufe0f Assista ao v\u00eddeo e compre pelo link:\nhttps://www.mercadolivre.com.br/clips?shortsparams=true&type=short&origin=share_vs&short_id=KvRrjg\n\nVista. Sinta. Viva Bella Fit. \ud83e\udd0e\n\n#ModaFitness #comprasbras #academia #mercadolivre #modafeminina",
+      "media_type": "Image",
+      "hashtags": [
+        "ModaFitness",
+        "comprasbras",
+        "academia",
+        "mercadolivre",
+        "modafeminina"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967621257317662875",
+      "external_id": "3967621257317662875",
+      "url": "https://www.instagram.com/p/DcP0oMdtUCb/",
+      "author": "wcislaghi",
+      "author_name": "cislaghi junior 06\ud83d\ude08\ud83d\ude9c",
+      "author_id": "40163318366",
+      "published_at": "2026-08-20T03:42:15.000Z",
+      "text": "#academia \ud83d\udc8d\ud83d\ude08\u2764\ufe0f\ud83d\udd25",
+      "media_type": "Image",
+      "hashtags": [
+        "academia"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620690127023524",
+      "external_id": "3967620690127023524",
+      "url": "https://www.instagram.com/p/DcP0f8Ogu2k/",
+      "author": "filipi_robertto25",
+      "author_name": "Filipi Robertto",
+      "author_id": "56527406885",
+      "published_at": "2026-08-20T03:41:08.000Z",
+      "text": "\ud83d\udc4a\ud83c\udffb\ud83e\uddd4\ud83c\udffb \ud83e\udde0 const\u00e2ncia \n#skyfit #academia #treinodefor\u00e7a #petrolina #juazeiro",
+      "media_type": "Image",
+      "hashtags": [
+        "skyfit",
+        "academia",
+        "treinodefor\u00e7a",
+        "petrolina",
+        "juazeiro"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967620564282077613",
+      "external_id": "3967620564282077613",
+      "url": "https://www.instagram.com/p/DcP0eHBkXGt/",
+      "author": "sho.da.promo",
+      "author_name": "Promo\u00e7\u00e3o e achadinhos",
+      "author_id": "79550517614",
+      "published_at": "2026-08-20T03:40:50.000Z",
+      "text": "Conforto, estilo e aquele look que d\u00e1 vontade de treinar at\u00e9 nos dias de pregui\u00e7a. \ud83d\ude2e\u200d\ud83d\udca8\ud83d\udd25\n\n#LookFitness #RoupaFitness #ModaFitness #TreinoFeminino #Academia",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "LookFitness",
+        "RoupaFitness",
+        "ModaFitness",
+        "TreinoFeminino",
+        "Academia"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967619448614260885",
+      "external_id": "3967619448614260885",
+      "url": "https://www.instagram.com/p/DcP0N3-lZCV/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:38:45.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos BEM planejados entregam mais que 1h sem foco.\n\nO protocolo Millbody de treino r\u00e1pido e eficiente:\n\ud83d\udd25 Intensidade > Dura\u00e7\u00e3o\n\u26a1 5min aquecimento + 20min circuito + 5min alongamento\n\ud83c\udfaf Progress\u00e3o de carga mesmo em treinos curtos\n\nResultado n\u00e3o \u00e9 sobre quanto tempo voc\u00ea passa na academia. \u00c9 sobre o que voc\u00ea faz com esse tempo.\n\nSalva esse post pra montar seu treino r\u00e1pido! \ud83d\udcaa\n\nQual sua maior dificuldade pra encaixar o treino na rotina? Comenta aqui \ud83d\udc47\n\n#treinoemcasa #treinorapido #millbody #personaltrainer #fitness #treino30min #vidasaudavel #academia #treinofuncional #saude",
+      "media_type": "Image",
+      "hashtags": [
+        "treinoemcasa",
+        "treinorapido",
+        "millbody",
+        "personaltrainer",
+        "fitness",
+        "treino30min",
+        "vidasaudavel",
+        "academia",
+        "treinofuncional",
+        "saude"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967618612563657097",
+      "external_id": "3967618612563657097",
+      "url": "https://www.instagram.com/p/DcP0BtWFcGJ/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:37:03.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\nO protocolo Millbody de treino r\u00e1pido:\n\ud83d\udd25 5min aquecimento\n\ud83d\udd25 20min circuito full body\n\ud83d\udd25 5min alongamento\n\nSpoiler: intensidade > dura\u00e7\u00e3o. \n\nSalva pra montar seu treino r\u00e1pido! \ud83d\udcaa\n\n\ud83d\udce9 Link na bio para avalia\u00e7\u00e3o gratuita.\n\n#Millbody #TreinoR\u00e1pido #Academia #Treino30Min #Fitness #Sa\u00fade #TreinoEficiente #PersonalTrainer",
+      "media_type": "Image",
+      "hashtags": [
+        "Millbody",
+        "TreinoR\u00e1pido",
+        "Academia",
+        "Treino30Min",
+        "Fitness",
+        "Sa\u00fade",
+        "TreinoEficiente",
+        "PersonalTrainer"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967617518523732566",
+      "external_id": "3967617518523732566",
+      "url": "https://www.instagram.com/p/DcPzxycOVJW/",
+      "author": "catiusciacardozogarcia",
+      "author_name": "Cati Garcia \ud83d\udc8b",
+      "author_id": "4008810102",
+      "published_at": "2026-08-20T03:36:17.000Z",
+      "text": "Simples assim! \n\n#rotina #fitnessmotivation #academia #muscula\u00e7\u00e3o #maromba",
+      "media_type": "Image",
+      "hashtags": [
+        "rotina",
+        "fitnessmotivation",
+        "academia",
+        "muscula\u00e7\u00e3o",
+        "maromba"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967617571436749543",
+      "external_id": "3967617571436749543",
+      "url": "https://www.instagram.com/p/DcPzyjuFeLn/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:34:58.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\nO protocolo Millbody de treino r\u00e1pido e eficiente: intensidade > dura\u00e7\u00e3o. \ud83d\udcaa\n\nSalva pra montar seu treino r\u00e1pido! \ud83d\udd25\n\nQual sua maior dificuldade: falta de tempo ou falta de dire\u00e7\u00e3o? \ud83d\udc47\n\n#Millbody #TreinoR\u00e1pido #Fitness #Treino30Min #Sa\u00fade #BemEstar #Academia #PersonalTrainer #TreinoInteligente",
+      "media_type": "Image",
+      "hashtags": [
+        "Millbody",
+        "TreinoR\u00e1pido",
+        "Fitness",
+        "Treino30Min",
+        "Sa\u00fade",
+        "BemEstar",
+        "Academia",
+        "PersonalTrainer",
+        "TreinoInteligente"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967617404302113302",
+      "external_id": "3967617404302113302",
+      "url": "https://www.instagram.com/p/DcPzwIEFboW/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:34:40.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1.\n\nMas 30 minutos BEM planejados entregam mais que 1h sem foco.\n\nO segredo? Intensidade > dura\u00e7\u00e3o.\n\nNo Protocolo Millbody de 30 minutos voc\u00ea tem:\n\ud83d\udd25 5min de aquecimento ativo\n\ud83d\udd25 20min de circuito full body\n\ud83d\udd25 5min de alongamento\n\nResultado m\u00e1ximo no menor tempo poss\u00edvel. \u00c9 sobre efici\u00eancia, n\u00e3o sobre horas na academia.\n\nSalva esse post pra montar seu treino r\u00e1pido! \ud83d\udcaa\n\n\ud83d\udce9 Link na bio para avalia\u00e7\u00e3o gratuita\n\n#TreinoR\u00e1pido #Millbody #Treino30Min #Efici\u00eancia #Academia #PersonalTrainer #TreinoInteligente #FocoNosResultados",
+      "media_type": "Image",
+      "hashtags": [
+        "TreinoR\u00e1pido",
+        "Millbody",
+        "Treino30Min",
+        "Efici\u00eancia",
+        "Academia",
+        "PersonalTrainer",
+        "TreinoInteligente",
+        "FocoNosResultados"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967615338307658500",
+      "external_id": "3967615338307658500",
+      "url": "https://www.instagram.com/p/DcPzSD9OCME/",
+      "author": "michelle_bombom",
+      "author_name": "Michelle Bombom",
+      "author_id": "35614604776",
+      "published_at": "2026-08-20T03:34:31.000Z",
+      "text": "Comenta EU QUERO que te mando o link: Short Dryfit 2em1 Feminino Academia Bermuda Dupla Para Caminhada Treino e Outros Exerc\u00edcio * #vidasaudavel\n* #academia\n* #fitnessbrasil\n* #treino\n* #sa\u00fade\u00e9bemestar",
+      "media_type": "Image",
+      "hashtags": [
+        "vidasaudavel",
+        "academia",
+        "fitnessbrasil",
+        "treino",
+        "sa\u00fade\u00e9bemestar"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967617050473702259",
+      "external_id": "3967617050473702259",
+      "url": "https://www.instagram.com/p/DcPzq-iRKNz/",
+      "author": "suplementos_bionex",
+      "author_name": "Universo Oculto",
+      "author_id": "1355460637",
+      "published_at": "2026-08-20T03:33:53.000Z",
+      "text": "Pe\u00e7a seu KIT j\u00e1 \ud83d\ude80\nOS 10 PRIMEIROS QUE CHAMAR POR ESSE REELS TEM UMA CONDI\u00c7\u00c3O ESPECIAL\n\nCHAMAA\ud83d\udd25\ud83d\udd25\n\nEntrega na NH e regi\u00e3o (confira disponibilidades)\n\n#fyp #fyp #academia #suplementos #reels",
+      "media_type": "Image",
+      "hashtags": [
+        "fyp",
+        "academia",
+        "suplementos",
+        "reels"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 1
+      }
+    },
+    {
+      "id": "3967616955763259965",
+      "external_id": "3967616955763259965",
+      "url": "https://www.instagram.com/p/DcPzpmVFfo9/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:33:45.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\nO segredo? Intensidade > dura\u00e7\u00e3o. Um treino de 30 minutos com a estrat\u00e9gia certa ativa seu metabolismo, queima calorias e constr\u00f3i m\u00fasculo \u2014 sem precisar passar 2h na academia.\n\n\ud83d\udccb Protocolo Millbody de 30min:\n\ud83d\udd25 5min aquecimento din\u00e2mico\n\ud83d\udd25 20min circuito full body (alta intensidade)\n\ud83d\udd25 5min alongamento e recupera\u00e7\u00e3o\n\nSalva esse post pra montar seu treino r\u00e1pido! E se quiser um plano personalizado, o link t\u00e1 na bio. \ud83d\udc47\n\nQual seu maior desafio: falta de tempo ou falta de dire\u00e7\u00e3o nos treinos? \ud83d\udcac\n\n#treino30min #treinorapido #millbody #personaltrainer #academia #fitness #treinointeligente #protocolomillbody #semdesculpa #saudemental",
+      "media_type": "Image",
+      "hashtags": [
+        "treino30min",
+        "treinorapido",
+        "millbody",
+        "personaltrainer",
+        "academia",
+        "fitness",
+        "treinointeligente",
+        "protocolomillbody",
+        "semdesculpa",
+        "saudemental"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967615738962083513",
+      "external_id": "3967615738962083513",
+      "url": "https://www.instagram.com/p/DcPzX5GFX65/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:31:20.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\nO segredo? Intensidade > dura\u00e7\u00e3o.\n\nO Protocolo Millbody de treino r\u00e1pido:\n\ud83d\udd25 5min de aquecimento\n\ud83d\udd25 20min de circuito full body\n\ud83d\udd25 5min de alongamento\n\nSimples, eficiente e cabe na sua rotina.\n\nSalva esse post pra montar seu treino r\u00e1pido! \ud83d\udcaa\n\nQual seu maior desafio: tempo, motiva\u00e7\u00e3o ou saber o que fazer? \ud83d\udc47\n\n#treinoemcasa #fitness #millbody #treinorapido #personaltrainer #academia #vidasaudavel #treino30min",
+      "media_type": "Image",
+      "hashtags": [
+        "treinoemcasa",
+        "fitness",
+        "millbody",
+        "treinorapido",
+        "personaltrainer",
+        "academia",
+        "vidasaudavel",
+        "treino30min"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967615237155618524",
+      "external_id": "3967615237155618524",
+      "url": "https://www.instagram.com/p/DcPzQlwFn7c/",
+      "author": "2_bomberoscarahue",
+      "author_name": "Segunda Carahue",
+      "author_id": "53367979632",
+      "published_at": "2026-08-20T03:30:15.000Z",
+      "text": "\ud83d\ude92 ACADEMIA DE INSTRUCCI\u00d3N | 2\u00aa COMPA\u00d1\u00cdA DE BOMBEROS DE CARAHUE \ud83d\ude92\n\nDurante esta tarde, nuestra compa\u00f1\u00eda realiz\u00f3 una nueva jornada de academia de instrucci\u00f3n, enfocada en la pr\u00e1ctica y perfeccionamiento del paso regular para desfile.\n\nUna instancia de preparaci\u00f3n, disciplina y trabajo en equipo, fortaleciendo constantemente nuestros conocimientos y coordinaci\u00f3n como compa\u00f1\u00eda. \ud83d\udc68\u200d\ud83d\ude92\ud83d\udc69\u200d\ud83d\ude92\n\n#BomberosDeChile #BomberosCarahue #SegundaCompa\u00f1\u00eda #Carahue #Academia Instrucci\u00f3nBomberil PasoRegular TrabajoEnEquipo",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "BomberosDeChile",
+        "BomberosCarahue",
+        "SegundaCompa\u00f1\u00eda",
+        "Carahue",
+        "Academia"
+      ],
+      "raw_metrics": {
+        "like_count": 18,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967614852646313819",
+      "external_id": "3967614852646313819",
+      "url": "https://www.instagram.com/p/DcPzK_pjB9b/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:29:33.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1.\n\nMas 30 minutos BEM planejados entregam mais que 1h sem foco.\n\nO segredo? Intensidade > dura\u00e7\u00e3o.\n\nO Protocolo Millbody de treino r\u00e1pido:\n\ud83d\udd25 5min de aquecimento ativo\n\ud83d\udd25 20min de circuito full body\n\ud83d\udd25 5min de alongamento\n\nResultado? Metabolismo acelerado por horas, m\u00fasculo sendo constru\u00eddo e gordura queimada \u2014 tudo em meia hora.\n\nSalva esse post pra montar seu treino r\u00e1pido e me conta: quanto tempo voc\u00ea consegue dedicar ao treino hoje? \ud83d\udcac\n\n\ud83d\udc47 Link na bio para montar seu protocolo personalizado\n\n#treino30min #treinorapido #millbody #personaltrainer #academia #fitness #treinointeligente #protocolomillbody #semdesculpas #vidasaudavel",
+      "media_type": "Image",
+      "hashtags": [
+        "treino30min",
+        "treinorapido",
+        "millbody",
+        "personaltrainer",
+        "academia",
+        "fitness",
+        "treinointeligente",
+        "protocolomillbody",
+        "semdesculpas",
+        "vidasaudavel"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967614546991216212",
+      "external_id": "3967614546991216212",
+      "url": "https://www.instagram.com/p/DcPzGi_FXZU/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:28:59.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1.\n\nMas 30 minutos BEM planejados entregam mais que 1h sem foco.\n\nNo Protocolo Millbody, a gente prova que intensidade > dura\u00e7\u00e3o. \n\n\ud83d\udd25 5min de aquecimento\n\ud83d\udd25 20min de circuito full body\n\ud83d\udd25 5min de alongamento\n\n30 minutos. Focados. Sem enrola\u00e7\u00e3o. Resultado real.\n\nSalva esse post pra montar seu treino r\u00e1pido e me conta: qual sua maior dificuldade pra encaixar o treino na rotina? \ud83d\udc47\n\n#treino30min #millbody #fitness #treinorapido #protocolomillbody #academia #vidasaudavel #treinointeligente",
+      "media_type": "Image",
+      "hashtags": [
+        "treino30min",
+        "millbody",
+        "fitness",
+        "treinorapido",
+        "protocolomillbody",
+        "academia",
+        "vidasaudavel",
+        "treinointeligente"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    },
+    {
+      "id": "3967613141043751296",
+      "external_id": "3967613141043751296",
+      "url": "https://www.instagram.com/p/DcPyyFmFamA/",
+      "author": "personal.millbody",
+      "author_name": "Personal Empreendedor Trainer",
+      "author_id": "44926347079",
+      "published_at": "2026-08-20T03:26:10.000Z",
+      "text": "\u23f0 \"N\u00e3o tenho tempo\" \u00e9 a desculpa #1. Mas 30 minutos bem planejados entregam mais que 1h sem foco.\n\nO protocolo Millbody de treino r\u00e1pido \u00e9 simples: intensidade > dura\u00e7\u00e3o.\n\n\ud83d\udd25 5min aquecimento\n\ud83d\udd25 20min circuito full body\n\ud83d\udd25 5min alongamento\n\nResultado? Queima cal\u00f3rica m\u00e1xima, tempo m\u00ednimo.\n\nSalva esse post pra montar seu treino r\u00e1pido! \ud83d\udcaa\n\nQual seu maior desafio: falta de tempo ou falta de dire\u00e7\u00e3o? Comenta aqui \ud83d\udc47\n\n#treino30min #treinorapido #millbody #personaltrainer #fitness #treinoeficiente #saude #bemestar #academia #vidasaudavel",
+      "media_type": "Image",
+      "hashtags": [
+        "treino30min",
+        "treinorapido",
+        "millbody",
+        "personaltrainer",
+        "fitness",
+        "treinoeficiente",
+        "saude",
+        "bemestar",
+        "academia",
+        "vidasaudavel"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0
+      }
+    }
+  ]
+}

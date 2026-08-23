@@ -1,0 +1,2 @@
+timestamp,total_posts,beleza,marketing,v2_available,v3_available,v2_availability,v3_availability,exact_match,v2_only,v3_only,disagreement,both_null,mean_abs_diff,median_abs_diff,max_abs_diff,v2_source,v3_source,dis_source_same,dis_source_diff,total_duration,average_seconds_per_post,nav_errors,timeouts,auth_required,captcha,external_provider_cost
+2026-08-23T04:57:12.350200+00:00,50,25,25,49,43,0.98,0.86,24,7,1,18,0,862.4047619047619,0.0,25062,"{'TEXT_OG': 24, 'VISIBLE_TEXT': 25, 'UNKNOWN': 1}","{'TEXT_OG': 43, 'UNKNOWN': 7}",0,18,206.98,4.14,0,0,0,0,0

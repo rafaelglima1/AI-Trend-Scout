@@ -1,0 +1,9 @@
+{
+  "provider": "meta_official",
+  "scenario": "SCENARIO-003",
+  "collected_at": "2026-08-20T03:44:16.002774+00:00",
+  "duration_seconds": 0.0,
+  "error": "META_ACCESS_TOKEN not configured",
+  "records": 0,
+  "contents": []
+}

@@ -1,0 +1,409 @@
+{
+  "total_snapshots": 4,
+  "cross_snapshot": {
+    "total_unique_content": 81,
+    "persistent_content_count": 57,
+    "persistent_content": {
+      "3967622212325054961": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967622179955550002": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967621738815514729": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967621529554174394": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967617041245281732": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967621222117346922": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967621154915355318": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620738573768341": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620495002886824": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620632968670272": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967610135499029784": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620395991905084": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620481848226271": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620445197216169": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620323682636390": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620298330648913": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620212433954606": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620111355377619": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967619372427630388": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "3967620015743517231": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ]
+    },
+    "total_unique_creators": 68,
+    "persistent_creators_count": 44,
+    "persistent_creators": {
+      "personal.millbody": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "primesuples": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "dany241086": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "pradhuman_lifter": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "tsubasa.toyama": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "lyftsbyava": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "tammy.fitwear": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "ratnakarjagannath": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "thescarredsaint": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "maia.maee": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "garage_wod": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "neerajhdrectifier": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "b.withrwc": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "deyvinquiang": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "vivek_rahmapuriya": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "yae_for_yyh": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "train.withqureshi": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "kristal_a_relentless": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "g___e2": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ],
+      "movewith_gq": [
+        "T0",
+        "T1",
+        "T2",
+        "T3"
+      ]
+    },
+    "persistent_hashtags": {
+      "treino30min": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 10,
+        "T3": 10
+      },
+      "treinorapido": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 10,
+        "T3": 10
+      },
+      "millbody": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 10,
+        "T3": 10
+      },
+      "fitness": {
+        "T0": 16,
+        "T1": 17,
+        "T2": 26,
+        "T3": 35
+      },
+      "treinointeligente": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 5,
+        "T3": 5
+      },
+      "academia": {
+        "T0": 1,
+        "T1": 5,
+        "T2": 22,
+        "T3": 22
+      },
+      "personaltrainer": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 9,
+        "T3": 10
+      },
+      "vidasaudavel": {
+        "T0": 1,
+        "T1": 2,
+        "T2": 10,
+        "T3": 10
+      },
+      "treinocurto": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 2,
+        "T3": 2
+      },
+      "resultadosreais": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 2,
+        "T3": 2
+      },
+      "Gym": {
+        "T0": 2,
+        "T1": 2,
+        "T2": 2,
+        "T3": 4
+      },
+      "Fitness": {
+        "T0": 3,
+        "T1": 3,
+        "T2": 5,
+        "T3": 6
+      },
+      "Motivacion": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 1,
+        "T3": 1
+      },
+      "Prime": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 1,
+        "T3": 1
+      },
+      "momlife\u2764\ufe0f": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 1,
+        "T3": 1
+      },
+      "momfitness": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 1,
+        "T3": 1
+      },
+      "fitnesslife": {
+        "T0": 1,
+        "T1": 1,
+        "T2": 1,
+        "T3": 2
+      },
+      "fitnessmotivation": {
+        "T0": 1,
+        "T1": 3,
+        "T2": 4,
+        "T3": 7
+      },
+      "gym": {
+        "T0": 1,
+        "T1": 5,
+        "T2": 5,
+        "T3": 11
+      },
+      "bodybuilding": {
+        "T0": 3,
+        "T1": 4,
+        "T2": 4,
+        "T3": 6
+      }
+    }
+  },
+  "snapshot_analyses": [
+    {
+      "snapshot_id": "T0",
+      "started_at": "2026-08-20T04:04:18.893584+00:00",
+      "content_count": 21,
+      "unique_creator_count": 20,
+      "clusters": [],
+      "noise_count": 21
+    },
+    {
+      "snapshot_id": "T1",
+      "started_at": "2026-08-20T04:04:36.822646+00:00",
+      "content_count": 36,
+      "unique_creator_count": 34,
+      "clusters": [],
+      "noise_count": 36
+    },
+    {
+      "snapshot_id": "T2",
+      "started_at": "2026-08-20T04:05:02.128351+00:00",
+      "content_count": 60,
+      "unique_creator_count": 44,
+      "clusters": [],
+      "noise_count": 60
+    },
+    {
+      "snapshot_id": "T3",
+      "started_at": "2026-08-20T04:05:26.520852+00:00",
+      "content_count": 84,
+      "unique_creator_count": 68,
+      "clusters": [],
+      "noise_count": 84
+    }
+  ]
+}

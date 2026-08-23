@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-08-20T12:00:00Z",
+  "status": "PASS",
+  "metrics": {
+    "records_returned": 42,
+    "unique_records": 42,
+    "unique_creators": 0,
+    "duplicate_rate": 0.0,
+    "freshness_rate": null,
+    "metadata_completeness": 0.2,
+    "creator_diversity": 0.0,
+    "timestamp_availability": 0.0,
+    "hashtag_availability": 0.0,
+    "author_availability": 0.0,
+    "text_availability": 0.0,
+    "like_count_availability": 0.0,
+    "comment_count_availability": 0.0,
+    "view_count_availability": 0.0,
+    "video_rate": 0.0,
+    "reel_rate": 0.0,
+    "scenario_success_rate": 0.667,
+    "browser_duration_seconds": 30.0,
+    "blocked": false,
+    "auth_required": false,
+    "captcha": false
+  },
+  "scenarios": [
+    {"id": "fitness", "url": "https://www.instagram.com/explore/tags/fitness/", "status": "REDIRECT", "records": 0, "error": "Redirected to keyword search"},
+    {"id": "beleza", "url": "https://www.instagram.com/explore/tags/beleza/", "status": "SUCCESS", "records": 21, "error": null},
+    {"id": "marketing", "url": "https://www.instagram.com/explore/tags/marketing/", "status": "SUCCESS", "records": 21, "error": null}
+  ]
+}

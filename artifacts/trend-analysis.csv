@@ -1,0 +1,5 @@
+id,pattern_type,lifecycle,content_count,unique_creators,niche_count,growth_signal,replication_signal,cross_niche_signal,engagement_signal,trend_score,confidence,primary_hashtags,dominant_format,evidence_count
+trend_txtcluster_0025,hashtag,EMERGING,3,3,1,0.6,0.75,0.3333333333333333,0.5,70.0,58.25,beleza|viral|explore,Image,7
+trend_txtcluster_0012,hashtag,EMERGING,2,2,1,0.4,0.5,0.3333333333333333,0.2,59.33,45.5,creationdecontenu|lbbgroups|conseil,Image,8
+trend_txtcluster_0000,generic,EMERGING,3,1,1,0.6,0.25,0.3333333333333333,0.2,55.67,40.75,businessdevelopment|ccs|branding,Image,10
+trend_txtcluster_0041,hashtag,EMERGING,2,2,0,0.4,0.5,0.0,0.2,54.33,45.5,instagram|viralpost|trending,Sidecar,7

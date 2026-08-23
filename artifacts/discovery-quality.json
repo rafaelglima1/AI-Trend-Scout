@@ -1,0 +1,32 @@
+{
+  "meta_official": {
+    "freshness": 0.0,
+    "coverage": 0.0,
+    "metadata": 0.0,
+    "reliability": 0.0,
+    "diversity": 0.0,
+    "cost": 80.0,
+    "validation": 50.0,
+    "total": 13.0
+  },
+  "bright_data": {
+    "freshness": 0.0,
+    "coverage": 0.0,
+    "metadata": 0.0,
+    "reliability": 0.0,
+    "diversity": 0.0,
+    "cost": 80.0,
+    "validation": 50.0,
+    "total": 13.0
+  },
+  "apify": {
+    "freshness": 88.41,
+    "coverage": 100,
+    "metadata": 89.78,
+    "reliability": 100.0,
+    "diversity": 86.67,
+    "cost": 80.0,
+    "validation": 50.0,
+    "total": 87.82
+  }
+}

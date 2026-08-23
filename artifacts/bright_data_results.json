@@ -1,0 +1,39 @@
+{
+  "aggregate": {
+    "records_returned": 0,
+    "unique_records": 0,
+    "duplicate_rate": 0.0,
+    "freshness_rate": 0.0,
+    "metadata_completeness": 0.0,
+    "creator_diversity": 0.0,
+    "successful_runs": 0,
+    "total_runs": 10,
+    "latency_seconds": 0.0,
+    "cost_usd": null,
+    "error": "partial_failure"
+  },
+  "discovery_quality": {
+    "freshness": 0.0,
+    "coverage": 0.0,
+    "metadata": 0.0,
+    "reliability": 0.0,
+    "diversity": 0.0,
+    "cost": 80.0,
+    "validation": 50.0,
+    "total": 13.0
+  },
+  "trend_readiness": {
+    "temporal_data": 0.0,
+    "creator_diversity": 0.0,
+    "engagement_metrics": 0.0,
+    "deduplication_quality": 100.0,
+    "total": 20.0
+  },
+  "evidence_readiness": {
+    "source_reliability": 0.0,
+    "metadata_depth": 0.0,
+    "freshness": 0.0,
+    "repeatability": 100,
+    "total": 20.0
+  }
+}

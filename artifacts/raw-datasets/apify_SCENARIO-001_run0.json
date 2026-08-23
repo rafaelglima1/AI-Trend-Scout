@@ -1,0 +1,434 @@
+{
+  "provider": "apify",
+  "scenario": "SCENARIO-001",
+  "collected_at": "2026-08-20T03:44:16.107117+00:00",
+  "duration_seconds": 14.109000000054948,
+  "error": null,
+  "records": 63,
+  "contents": [
+    {
+      "id": "apify_3967622114357953733",
+      "external_id": "3967622114357953733",
+      "url": "https://www.instagram.com/p/DcP00qpSkTF/",
+      "author": "ccs_syd",
+      "published_at": "2026-08-20T03:43:59.000Z",
+      "text": "#ccs #branding #marketing #aussiebusiness #businessdevelopment",
+      "media_type": "Image",
+      "hashtags": [
+        "ccs",
+        "branding",
+        "marketing",
+        "aussiebusiness",
+        "businessdevelopment"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967622029934969901",
+      "external_id": "3967622029934969901",
+      "url": "https://www.instagram.com/p/DcP0zcBScQt/",
+      "author": "ccs_syd",
+      "published_at": "2026-08-20T03:43:48.000Z",
+      "text": "#ccs #branding #marketing #aussiebusiness #businessdevelopment",
+      "media_type": "Image",
+      "hashtags": [
+        "ccs",
+        "branding",
+        "marketing",
+        "aussiebusiness",
+        "businessdevelopment"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967621647909292235",
+      "external_id": "3967621647909292235",
+      "url": "https://www.instagram.com/p/DcP0t4OyIjL/",
+      "author": "ccs_syd",
+      "published_at": "2026-08-20T03:43:36.000Z",
+      "text": "#ccs #branding #marketing #aussiebusiness #businessdevelopment",
+      "media_type": "Image",
+      "hashtags": [
+        "ccs",
+        "branding",
+        "marketing",
+        "aussiebusiness",
+        "businessdevelopment"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620785070542489",
+      "external_id": "3967620785070542489",
+      "url": "https://www.instagram.com/p/DcP0hUplg6Z/",
+      "author": "thepolortiz",
+      "published_at": "2026-08-20T03:41:16.000Z",
+      "text": "Repost from @roastbrief\n\u2022\n\ud83e\udd16\ud83d\uddd1\ufe0f La publicidad hecha con IA es la nueva basura visual.\n\nCada vez vemos m\u00e1s campa\u00f1as generadas con inteligencia artificial. El problema no es la herramienta, sino cuando se",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "InteligenciaArtificial",
+        "IA",
+        "Dise\u00f1o",
+        "Marketing",
+        "Roastbrief"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967620700053344757",
+      "external_id": "3967620700053344757",
+      "url": "https://www.instagram.com/p/DcP0gFeKpH1/",
+      "author": "marketing5of0",
+      "published_at": "2026-08-20T03:41:13.000Z",
+      "text": "Graphic design #freelancing#Marketing\n#design \n#digitel #digitalillustration",
+      "media_type": "Image",
+      "hashtags": [
+        "freelancing",
+        "Marketing",
+        "design",
+        "digitel",
+        "digitalillustration"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967619664235052430",
+      "external_id": "3967619664235052430",
+      "url": "https://www.instagram.com/p/DcP0RAylb2O/",
+      "author": "cognitivapromo",
+      "published_at": "2026-08-20T03:39:03.000Z",
+      "text": "La forma en que presentas tu negocio, comunicas tus ideas y conectas visualmente con tu p\u00fablico tambi\u00e9n habla de tu marca. \ud83c\udfa8\ud83d\udca1\n\nEn este carrusel te compartimos 5 estrategias visuales que pueden ayudart",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "Branding",
+        "IdentidadVisual",
+        "Dise\u00f1oGr\u00e1fico",
+        "Marketing",
+        "EstrategiaVisual"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967619325622609588",
+      "external_id": "3967619325622609588",
+      "url": "https://www.instagram.com/p/DcP0MFbtea0/",
+      "author": "mindup.brr",
+      "published_at": "2026-08-20T03:38:28.000Z",
+      "text": "Persona \u00e9, basicamente, entender para quem voc\u00ea est\u00e1 vendendo.\n\nN\u00e3o \u00e9 s\u00f3 saber idade ou cidade. \u00c9 entender o que essa pessoa quer, o que ela precisa, o que incomoda e o que faz ela decidir comprar.\n\nQ",
+      "media_type": "Image",
+      "hashtags": [
+        "MindUpBR",
+        "Marketing",
+        "Estrategia"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967618893278662001",
+      "external_id": "3967618893278662001",
+      "url": "https://www.instagram.com/p/DcP0FyyAM1x/",
+      "author": "viini.mcr",
+      "published_at": "2026-08-20T03:37:31.000Z",
+      "text": "Chama o VINI \ud83d\ude09 \n\n#filmaker #editor #marketing #assis #audiovisual",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "filmaker",
+        "editor",
+        "marketing",
+        "assis",
+        "audiovisual"
+      ],
+      "raw_metrics": {
+        "like_count": -1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967618699673159962",
+      "external_id": "3967618699673159962",
+      "url": "https://www.instagram.com/p/DcP0C-eN0ka/",
+      "author": "mindup.brr",
+      "published_at": "2026-08-20T03:37:12.000Z",
+      "text": "Storytelling \u00e9 simplesmente contar uma hist\u00f3ria de um jeito que fa\u00e7a a pessoa se conectar com voc\u00ea.\n\nEm vez de s\u00f3 falar \u201cmeu produto \u00e9 bom\u201d, voc\u00ea mostra uma situa\u00e7\u00e3o, um problema ou uma transforma\u00e7\u00e3o ",
+      "media_type": "Image",
+      "hashtags": [
+        "MindUpBR",
+        "Storytelling",
+        "Marketing"
+      ],
+      "raw_metrics": {
+        "like_count": 1,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967617907567797770",
+      "external_id": "3967617907567797770",
+      "url": "https://www.instagram.com/p/DcPz3cxDqYK/",
+      "author": "kallawaymarketing",
+      "published_at": "2026-08-20T03:35:33.000Z",
+      "text": "If you want to improve your storytelling, this is the\u00a0best psychology trick.\n\nComment \u201cstory\u201d and I\u2019ll send through my entire short-form storytelling template database.\n\nEvery one of these videos\u2026got ",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "storytelling",
+        "marketing",
+        "contentcreator",
+        "contentstrategy"
+      ],
+      "raw_metrics": {
+        "like_count": 7,
+        "comments_count": 5,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967617451252605966",
+      "external_id": "3967617451252605966",
+      "url": "https://www.instagram.com/p/DcPzwzyjWQO/",
+      "author": "soylaurensalas",
+      "published_at": "2026-08-20T03:34:39.000Z",
+      "text": "Detr\u00e1s de cada creador de contenido existe algo que la c\u00e1mara no muestra \ud83c\udfac\n\u00bfQu\u00e9 existe detr\u00e1s de lo que t\u00fa haces? \ud83e\udd0d\n\n#creadordecontenidos #ugc #influencer #marketing #comunicar",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "creadordecontenidos",
+        "ugc",
+        "influencer",
+        "marketing",
+        "comunicar"
+      ],
+      "raw_metrics": {
+        "like_count": 11,
+        "comments_count": 7,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967616181411740844",
+      "external_id": "3967616181411740844",
+      "url": "https://www.instagram.com/p/DcPzeVKI3ys/",
+      "author": "digitoly",
+      "published_at": "2026-08-20T03:34:14.000Z",
+      "text": "Your brand has a story. We help you tell it to the right audience. \u2728\n\nBuild a stronger presence. Reach the right people. Grow with Digitoly. \ud83d\ude80 Get in touch today: https://www.digitoly.com\n\n#Digitoly #",
+      "media_type": "Image",
+      "hashtags": [
+        "Digitoly",
+        "DigitalMarketing",
+        "BrandStory",
+        "BrandGrowth",
+        "Marketing",
+        "seo",
+        "socialmediamarketing"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967617215331071436",
+      "external_id": "3967617215331071436",
+      "url": "https://www.instagram.com/p/DcPztYEiHXM/",
+      "author": "cold_shoulder_designs",
+      "published_at": "2026-08-20T03:34:11.000Z",
+      "text": "NEED A REFRESH FOR YOUR BRAND or BUSINESS? Don\u2019t hesitate to get in touch. \n\nContact us to get a quote\ninfo@coldshoulder.co.za\nwww.coldshoulder.co.za\n083 549 9875 | 072 218 0009\n____________________\n\n",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "ColdSHoulderDesignAndMarketing",
+        "InnovativeDesignSolutions",
+        "VisualCommunication",
+        "Marketing"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967616560260782073",
+      "external_id": "3967616560260782073",
+      "url": "https://www.instagram.com/p/DcPzj1_TRf5/",
+      "author": "veliora_hyd",
+      "published_at": "2026-08-20T03:33:50.000Z",
+      "text": "Give us the problem, not the solution. That\u2019s what you\u2019re paying for.\n.\n.\n.\n#creativeagency #brandstrategy #marketing #hyderabadbusiness #velioraindia",
+      "media_type": "Image",
+      "hashtags": [
+        "creativeagency",
+        "brandstrategy",
+        "marketing",
+        "hyderabadbusiness",
+        "velioraindia"
+      ],
+      "raw_metrics": {
+        "like_count": 3,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967615912833542598",
+      "external_id": "3967615912833542598",
+      "url": "https://www.instagram.com/p/DcPzabBoWnG/",
+      "author": "lbb_groups",
+      "published_at": "2026-08-20T03:33:30.000Z",
+      "text": "Une belle cam\u00e9ra ne fait pas, \u00e0 elle seule, une bonne production.\n\nAvant m\u00eame de choisir les \u00e9quipements, il faut savoir pourquoi le projet existe.\n\nUn projet audiovisuel bien pr\u00e9par\u00e9 permet de gagner",
+      "media_type": "Image",
+      "hashtags": [
+        "LBBGROUPS",
+        "ProductionAudiovisuelle",
+        "Conseil",
+        "Communication",
+        "CreationDeContenu",
+        "Marketing",
+        "cameroun"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967615982939947628",
+      "external_id": "3967615982939947628",
+      "url": "https://www.instagram.com/p/DcPzbcUTEJs/",
+      "author": "disnakerkopdanukmparepare",
+      "published_at": "2026-08-20T03:32:25.000Z",
+      "text": "\ud83d\udea8 LOWONGAN KERJA \u2013 INDOMOBIL FINANCE \ud83d\udea8\n\nPT Indomobil Finance Indonesia \u2013 Cabang Parepare sedang membuka kesempatan bagi kamu untuk bergabung sebagai:\n\n\ud83d\udd39 Marketing Commercial Vehicle (MCV)\n\ud83d\udd39 Used Car M",
+      "media_type": "Image",
+      "hashtags": [
+        "LowonganKerja",
+        "LokerParepare",
+        "LokerSulsel",
+        "IndomobilFinance",
+        "Marketing"
+      ],
+      "raw_metrics": {
+        "like_count": 2,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967616128897729043",
+      "external_id": "3967616128897729043",
+      "url": "https://www.instagram.com/p/DcPzdkQD0IT/",
+      "author": "acebrix_academy",
+      "published_at": "2026-08-20T03:32:01.000Z",
+      "text": "Marketing gets attention. Branding makes people remember you.\n\nThey work differently \u2014 but the strongest businesses use both. \ud83c\udfaf\n\nMarketing helps you:\n\u2022 Reach new people\n\u2022 Generate leads\n\u2022 Drive conver",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "Marketing",
+        "Branding",
+        "MarketingStrategy",
+        "BrandStrategy",
+        "DigitalMarketing"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967615925910652661",
+      "external_id": "3967615925910652661",
+      "url": "https://www.instagram.com/p/DcPzanNFkb1/",
+      "author": "jolanydelgado",
+      "published_at": "2026-08-20T03:31:37.000Z",
+      "text": "\u00a1Est\u00e1 caro! no siempre significa que no ten\u00e9s clientes. A veces significa que falta explicar mejor el valor.\n\nGuard\u00e1 este post para tu pr\u00f3xima conversaci\u00f3n de venta.\n\n#ventas #contenidodevalor #market",
+      "media_type": "Sidecar",
+      "hashtags": [
+        "ventas",
+        "contenidodevalor",
+        "marketing",
+        "conversion",
+        "clientes"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967614418200190077",
+      "external_id": "3967614418200190077",
+      "url": "https://www.instagram.com/p/DcPzErCilx9/",
+      "author": "lbbgroups",
+      "published_at": "2026-08-20T03:30:31.000Z",
+      "text": "@lbb_groups \nUne belle cam\u00e9ra ne fait pas, \u00e0 elle seule, une bonne production.\n\nAvant m\u00eame de choisir les \u00e9quipements, il faut savoir pourquoi le projet existe.\n\nUn projet audiovisuel bien pr\u00e9par\u00e9 per",
+      "media_type": "Image",
+      "hashtags": [
+        "LBBGROUPS",
+        "ProductionAudiovisuelle",
+        "Conseil",
+        "Communication",
+        "CreationDeContenu",
+        "Marketing",
+        "Cameroun"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    },
+    {
+      "id": "apify_3967615216225384506",
+      "external_id": "3967615216225384506",
+      "url": "https://www.instagram.com/p/DcPzQSQjHg6/",
+      "author": "campaign.asia",
+      "published_at": "2026-08-20T03:30:21.000Z",
+      "text": "What if your biggest growth opportunity is hiding outside your traditional audience?\n\nSudesh Thevasenabathy, Head of Inclusion at Manulife, will share real examples from across Asia at the Festival of",
+      "media_type": "Image",
+      "hashtags": [
+        "CampaignAsia",
+        "FestivalOfMarketing",
+        "FOMAsia",
+        "marketingevents",
+        "marketing",
+        "APACmarketers",
+        "brandmarketers",
+        "B2Bmarketing",
+        "B2Cmarketing"
+      ],
+      "raw_metrics": {
+        "like_count": 0,
+        "comments_count": 0,
+        "view_count": null
+      }
+    }
+  ]
+}

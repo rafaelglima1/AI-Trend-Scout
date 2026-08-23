@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-08-23T04:57:12.350200+00:00",
+  "total_posts": 50,
+  "beleza": 25,
+  "marketing": 25,
+  "v2_available": 49,
+  "v3_available": 43,
+  "v2_availability": 0.98,
+  "v3_availability": 0.86,
+  "exact_match": 24,
+  "v2_only": 7,
+  "v3_only": 1,
+  "disagreement": 18,
+  "both_null": 0,
+  "mean_abs_diff": 862.4047619047619,
+  "median_abs_diff": 0.0,
+  "max_abs_diff": 25062,
+  "v2_source": {
+    "TEXT_OG": 24,
+    "VISIBLE_TEXT": 25,
+    "UNKNOWN": 1
+  },
+  "v3_source": {
+    "TEXT_OG": 43,
+    "UNKNOWN": 7
+  },
+  "dis_source_same": 0,
+  "dis_source_diff": 18,
+  "total_duration": 206.98,
+  "average_seconds_per_post": 4.14,
+  "nav_errors": 0,
+  "timeouts": 0,
+  "auth_required": 0,
+  "captcha": 0,
+  "external_provider_cost": 0
+}

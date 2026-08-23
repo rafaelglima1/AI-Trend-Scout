@@ -1,0 +1,23 @@
+{
+  "meta_official": {
+    "source_reliability": 0.0,
+    "metadata_depth": 0.0,
+    "freshness": 0.0,
+    "repeatability": 100,
+    "total": 20.0
+  },
+  "bright_data": {
+    "source_reliability": 0.0,
+    "metadata_depth": 0.0,
+    "freshness": 0.0,
+    "repeatability": 100,
+    "total": 20.0
+  },
+  "apify": {
+    "source_reliability": 100.0,
+    "metadata_depth": 89.78,
+    "freshness": 88.41,
+    "repeatability": 100,
+    "total": 94.62
+  }
+}
