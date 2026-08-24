@@ -2,7 +2,12 @@
 """Unit tests for like scale normalization and evidence persistence."""
 
 import sys
-sys.path.insert(0, "C:/Users/rafael.dacosta/source/repos/AI Trend Scout")
+from pathlib import Path
+
+# Add project root to path (one level up from benchmark/)
+PROJECT_ROOT = str(Path(__file__).resolve().parent.parent)
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
 
 from benchmark.browser_discovery.extraction_v3 import extract_like_count, extract_comment_count
 
